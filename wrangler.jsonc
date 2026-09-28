@@ -1,0 +1,16 @@
+{
+  // cloudflare deploys this as a worker that only serves static files, there's no
+  // server code at all. this file has to exist because the repo root is an npm
+  // workspace (pipeline + web), and without it wrangler tries to guess which one is
+  // the app and gives up with "detection logic has been run in the root of a
+  // workspace".
+  "name": "swe-internships",
+  "compatibility_date": "2026-09-01",
+  "assets": {
+    // what `npm run build` writes. data/jobs.json gets copied in during the build,
+    // so every data commit from the refresh action has to rebuild to go live.
+    "directory": "./web/out",
+    // serve our 404.html for unknown paths instead of a bare cloudflare error
+    "not_found_handling": "404-page"
+  }
+}

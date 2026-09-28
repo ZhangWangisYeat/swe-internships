@@ -1,0 +1,123 @@
+name: Refresh listings
+
+on:
+  schedule:
+    # every 6 hours. the source list only updates daily so there's no point going
+    # faster, and this way we're not constantly hitting companies' job boards.
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Re-verify every row, ignoring the 12h cache'
+        type: boolean
+        default: false
+      allow_large_drop:
+        description: 'Skip the big-drop check (only if the drop is actually real)'
+        type: boolean
+        default: false
+
+# stop two runs happening at once and fighting over the same commit
+concurrency:
+  group: refresh-listings
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # check the pipeline works before we go and trust whatever it writes
+      - name: Test
+        run: npm run test -w pipeline
+
+      - name: Refresh and verify listings
+        env:
+          ALLOW_LARGE_DROP: ${{ inputs.allow_large_drop && '1' || '' }}
+        run: npm run start -w pipeline -- ${{ inputs.force && '--force' || '' }}
+
+      # this one runs against the file we just wrote, so if something's wrong with
+      # it the job fails here instead of the bad data ending up on the site
+      - name: Validate emitted data
+        run: npm run test -w web
+
+      - name: Summarize
+        if: always()
+        run: |
+          if [ -f data/meta.json ]; then
+            node -e '
+              const m = require("./data/meta.json");
+              const c = m.counts;
+              const lines = [
+                "## Listings refreshed",
+                "",
+                "| Stage | Count |",
+                "| --- | --- |",
+                `| Upstream total | ${c.upstreamTotal} |`,
+                `| Active | ${c.afterActive} |`,
+                `| Has a degree level | ${c.afterDegree} |`,
+                `| Software | ${c.afterCategory} |`,
+                `| In current cycle | ${c.afterCycle} |`,
+                `| **Confirmed open** | **${c.verifiedOpen}** |`,
+                `| Unverified | ${c.unverified} |`,
+                `| Closed and removed | ${c.closedRemoved} |`,
+                "",
+                `Tiers: T1=${m.tiers.T1} T2=${m.tiers.T2} T3=${m.tiers.T3}`,
+                `New: ${m.diff.newIds.length} · Closed: ${m.diff.closedIds.length}`,
+                `Cycle: ${m.cycleTerms.join(", ")}`,
+                "",
+                "| Adapter | Open | Closed | Unknown |",
+                "| --- | --- | --- | --- |",
+                ...Object.entries(m.verification.byAdapter).sort()
+                  .map(([n, s]) => `| ${n} | ${s.open} | ${s.closed} | ${s.unknown} |`),
+              ];
+              if (m.warnings.length) lines.push("", "**Warnings**", ...m.warnings.map(w => `- ${w}`));
+              require("fs").appendFileSync(process.env.GITHUB_STEP_SUMMARY, lines.join("\n") + "\n");
+            '
+          fi
+
+      - name: Commit updated data
+        run: |
+          # commit as alex, not github-actions[bot], so his account is the only one in
+          # the history. the noreply address still links the commit to his profile
+          # without putting his real email in this file.
+          git config user.name  "Alexander Zhang"
+          git config user.email "132952684+ZhangWangisYeat@users.noreply.github.com"
+
+          if git diff --quiet -- data/; then
+            echo "No listing changes."
+            exit 0
+          fi
+
+          COUNT=$(node -p "require('./data/jobs.json').count")
+          NEW=$(node -p "require('./data/meta.json').diff.newIds.length")
+          GONE=$(node -p "require('./data/meta.json').diff.closedIds.length")
+
+          git add data/
+          git commit -m "data: ${COUNT} open roles (+${NEW} new, -${GONE} closed)"
+
+          # if anyone pushed to main while this was running (~2 min), a plain push
+          # gets rejected and the whole refresh is thrown away. that happened the
+          # first time i pushed a code change mid-run. this job only ever touches
+          # data/, so rebasing onto whatever landed is safe, and it retries a few
+          # times in case something lands again in between.
+          for attempt in 1 2 3; do
+            if git pull --rebase --quiet && git push; then
+              exit 0
+            fi
+            echo "push attempt ${attempt} failed, retrying"
+            sleep $((attempt * 5))
+          done
+          exit 1

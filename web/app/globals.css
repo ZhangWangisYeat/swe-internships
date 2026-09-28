@@ -1,0 +1,303 @@
+@import 'tailwindcss';
+
+/* colours.
+
+   every colour is defined here in :root for light mode first, then overridden
+   twice for dark: once for people whose system is set to dark, and again for
+   [data-theme='dark'] so the toggle actually wins either direction. the reason
+   it's written out twice instead of once is that nothing should ever have its
+   only definition inside a media query, or the toggle can't override it. */
+:root {
+  color-scheme: light;
+
+  /* light mode comes from the print block at the bottom of the resume site's
+     resume.css: white sheet, near-black ink, hairline rules */
+  --bg: #ffffff;
+  --bg-subtle: #f4f4f4;
+  --surface: #ffffff;
+  --surface-hover: #f7f7f7;
+  --border: rgba(0, 0, 0, 0.12);
+  --border-strong: rgba(0, 0, 0, 0.25);
+
+  --text: #111111;
+  --text-muted: #555555;
+  --text-faint: #777777;
+
+  /* UCLA blue, the same accent the resume site floods project tiles with */
+  --accent: #2774ae;
+  --accent-hover: #1f5d8b;
+  --accent-fg: #ffffff;
+  --accent-subtle: rgba(39, 116, 174, 0.12);
+  --accent-ring: #2774ae;
+
+  --success: #1f7a4d;
+  --success-subtle: rgba(31, 122, 77, 0.12);
+  --warn: #8a6100;
+  --warn-subtle: rgba(138, 97, 0, 0.12);
+  --danger: #a32020;
+  --danger-subtle: rgba(163, 32, 32, 0.1);
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 4px 16px -2px rgba(0, 0, 0, 0.12);
+  /* the resume site keeps corners essentially square, so this stays tight */
+  --radius: 2px;
+  --ease: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* dark is the real look here, same as the resume site. these are its resume.css
+   tokens more or less verbatim: --page, --sheet, --head and that 9% white hairline. */
+:root:not([data-theme='light']) {
+  @media (prefers-color-scheme: dark) {
+    color-scheme: dark;
+
+    --bg: #0c0c0c;
+    --bg-subtle: #1d1d1d;
+    --surface: #161616;
+    --surface-hover: #1f1f1f;
+    --border: rgba(255, 255, 255, 0.09);
+    --border-strong: rgba(255, 255, 255, 0.22);
+
+    --text: #f2f2f2;
+    --text-muted: #8c8c8c;
+    --text-faint: #6a6a6a;
+
+    --accent: #4f9ad6;
+    --accent-hover: #74b2e3;
+    --accent-fg: #0c0c0c;
+    --accent-subtle: rgba(79, 154, 214, 0.16);
+    --accent-ring: #4f9ad6;
+
+    --success: #5fc98d;
+    --success-subtle: rgba(95, 201, 141, 0.14);
+    --warn: #d9a83c;
+    --warn-subtle: rgba(217, 168, 60, 0.14);
+    --danger: #e0685f;
+    --danger-subtle: rgba(224, 104, 95, 0.14);
+
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.5);
+    --shadow-md: 0 4px 20px -2px rgba(0, 0, 0, 0.6);
+  }
+}
+
+:root[data-theme='dark'] {
+  color-scheme: dark;
+
+  --bg: #0c0c0c;
+  --bg-subtle: #1d1d1d;
+  --surface: #161616;
+  --surface-hover: #1f1f1f;
+  --border: rgba(255, 255, 255, 0.09);
+  --border-strong: rgba(255, 255, 255, 0.22);
+
+  --text: #f2f2f2;
+  --text-muted: #8c8c8c;
+  --text-faint: #6a6a6a;
+
+  --accent: #4f9ad6;
+  --accent-hover: #74b2e3;
+  --accent-fg: #0c0c0c;
+  --accent-subtle: rgba(79, 154, 214, 0.16);
+  --accent-ring: #4f9ad6;
+
+  --success: #5fc98d;
+  --success-subtle: rgba(95, 201, 141, 0.14);
+  --warn: #d9a83c;
+  --warn-subtle: rgba(217, 168, 60, 0.14);
+  --danger: #e0685f;
+  --danger-subtle: rgba(224, 104, 95, 0.14);
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.5);
+  --shadow-md: 0 4px 20px -2px rgba(0, 0, 0, 0.6);
+}
+
+/* has to be `inline` so tailwind reads the variable where it's used rather than
+   baking in whatever it was at build time, otherwise the theme toggle does nothing */
+@theme inline {
+  --font-sans: var(--font-body), system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-display: var(--font-display), var(--font-body), system-ui, sans-serif;
+
+  --color-bg: var(--bg);
+  --color-bg-subtle: var(--bg-subtle);
+  --color-surface: var(--surface);
+  --color-surface-hover: var(--surface-hover);
+  --color-border-base: var(--border);
+  --color-border-strong: var(--border-strong);
+
+  --color-text: var(--text);
+  --color-text-muted: var(--text-muted);
+  --color-text-faint: var(--text-faint);
+
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-fg: var(--accent-fg);
+  --color-accent-subtle: var(--accent-subtle);
+
+  --color-success: var(--success);
+  --color-success-subtle: var(--success-subtle);
+  --color-warn: var(--warn);
+  --color-warn-subtle: var(--warn-subtle);
+  --color-danger: var(--danger);
+  --color-danger-subtle: var(--danger-subtle);
+
+  --radius-card: var(--radius);
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    /* set our own background, don't inherit whatever's behind us */
+    background-color: var(--bg);
+    color: var(--text);
+    font-family: var(--font-body), system-ui, sans-serif;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* Bebas Neue, uppercase, packed tight. this is the resume site's whole heading
+     look: big condensed caps with the line-height pulled well under 1. */
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display), var(--font-body), sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 0.9;
+    letter-spacing: 0.01em;
+  }
+
+  /* the little tracked-out label the resume site puts above every section heading.
+     0.28em of letter-spacing is what makes it read as a label and not just small text. */
+  .eyebrow {
+    font-size: 0.68rem;
+    font-weight: 600;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+  }
+
+  /* fixed-width digits so dates and counts line up down the column. Space Grotesk
+     has proper tabular figures so we don't need a separate mono face for this. */
+  .tnum {
+    font-variant-numeric: tabular-nums;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--accent-ring);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  ::selection {
+    background: var(--accent-subtle);
+    color: var(--text);
+  }
+
+  /* make the scrollbar match the theme instead of being a bright grey bar in dark mode */
+  * {
+    scrollbar-color: var(--border-strong) transparent;
+  }
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--border-strong);
+    border-radius: 99px;
+    border: 2px solid var(--bg);
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@keyframes shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.skeleton {
+  position: relative;
+  overflow: hidden;
+  background: var(--bg-subtle);
+}
+
+.skeleton::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(90deg, transparent, var(--surface-hover), transparent);
+  animation: shimmer 1.6s infinite;
+}
+
+@keyframes slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-slide-up {
+  animation: slide-up 0.22s ease-out;
+}
+
+/* the plain role index under the table (RoleIndex.tsx). these are real classes and
+   not tailwind utilities because there's a row for every role, and the same class
+   strings repeated ~1,000 times made the html noticeably bigger. */
+.role-index ul {
+  list-style: none;
+  margin: 0;
+  padding: 0 1rem 1rem;
+  font-size: 0.8125rem;
+  line-height: 1.5;
+}
+
+.role-index li {
+  padding: 0.45rem 0;
+  border-top: 1px solid var(--border);
+}
+
+.role-index b {
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.75rem;
+  color: var(--text);
+}
+
+.role-index a {
+  color: var(--accent);
+}
+
+.role-index a:hover {
+  text-decoration: underline;
+}
+
+.role-index li > span {
+  color: var(--text-faint);
+}

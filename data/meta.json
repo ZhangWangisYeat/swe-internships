@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-09-28T08:15:13.393Z",
+  "sourceRepo": "Summer2027-Internships",
+  "counts": {
+    "upstreamTotal": 16901,
+    "afterActive": 4461,
+    "afterDegree": 4461,
+    "afterCategory": 1545,
+    "afterCycle": 1134,
+    "verifiedOpen": 1047,
+    "unverified": 60,
+    "closedRemoved": 27,
+    "emitted": 1107,
+    "withSkills": 832
+  },
+  "tiers": {
+    "T1": 291,
+    "T2": 375,
+    "T3": 468
+  },
+  "verification": {
+    "attempted": 87,
+    "byAdapter": {
+      "cache": {
+        "open": 1047,
+        "closed": 0,
+        "unknown": 0
+      },
+      "greenhouse": {
+        "open": 0,
+        "closed": 0,
+        "unknown": 7
+      },
+      "ashby": {
+        "open": 0,
+        "closed": 5,
+        "unknown": 0
+      },
+      "generic": {
+        "open": 0,
+        "closed": 12,
+        "unknown": 51
+      },
+      "lever": {
+        "open": 0,
+        "closed": 1,
+        "unknown": 0
+      },
+      "smartrecruiters": {
+        "open": 0,
+        "closed": 9,
+        "unknown": 0
+      },
+      "workday": {
+        "open": 0,
+        "closed": 0,
+        "unknown": 2
+      }
+    },
+    "durationMs": 48312,
+    "skippedFresh": 1047
+  },
+  "diff": {
+    "newIds": [],
+    "closedIds": [
+      "d01c4677-7ce0-40d5-85fe-0ed50a4d160c",
+      "b7ecf859-e102-435c-ad58-a6bb88c51c60",
+      "ac9a60d7-eb51-4cbb-af68-97f00839f454",
+      "b6c42e15-97af-489f-9211-33b2ce059197",
+      "3b16aba4-17cf-4636-b0fa-03bc53122db2",
+      "8b859d22-1375-43c9-87ac-1af93ace29a5",
+      "c3281007-1ea1-4d32-80e2-62529613957b",
+      "8569a45d-e504-4cc5-897a-de907ab8e0f7",
+      "8172b446-22d1-4377-b335-6f5fd54371aa",
+      "1795d6df-fcca-45dc-836d-41a82dc36894",
+      "d8558fc9-9efb-4c17-b70f-26aafda3b66a",
+      "59b37959-7280-4f60-aad9-0c9a3265acc7",
+      "87fa51f3-741b-402e-a1b4-f9d9b7d87222",
+      "fb43ca64-ac2c-4698-b2fe-f67d16fff11d",
+      "37b97258-63a4-45f5-adf3-0a84d16998bf",
+      "3f3c2722-e6f4-460f-a318-ada5d0e970f7",
+      "64710cc0-783e-46c6-bf40-0094991af6e5",
+      "e808ba48-68a5-402a-b394-ca05a260cfe8",
+      "8af537c8-1c4a-4baf-a924-99bf28fc30a0",
+      "ece3f59c-0b44-40f0-8f75-a361ad895c47",
+      "054b254c-cc0b-47dd-a2c2-98cf50c0269f",
+      "18052ece-e9bc-41d6-bcd9-f20ab241dcc2",
+      "26b3de5f-72c0-4567-8e63-fac11ea93bff",
+      "edd61cb3-1077-4e8f-96ef-4862eaefa5b8",
+      "418c7dd2-b4c0-46c0-b387-96395ae563ea",
+      "dc550f37-4505-4a97-8560-642d1cc2f0e9",
+      "9e770238-e3ff-491f-baa6-08a85518e661"
+    ]
+  },
+  "byLevel": {
+    "undergrad": 1045,
+    "masters": 381,
+    "phd": 97
+  },
+  "cycleTerms": [
+    "Fall 2026",
+    "Fall 2027",
+    "Fall 2028",
+    "N/A",
+    "Spring 2027",
+    "Spring 2028",
+    "Spring 2029",
+    "Summer 2027",
+    "Summer 2028",
+    "Summer 2029",
+    "Winter 2027",
+    "Winter 2028",
+    "Winter 2029"
+  ],
+  "warnings": []
+}

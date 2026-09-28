@@ -1,0 +1,31 @@
+node_modules/
+.next/
+out/
+dist/
+*.tsbuildinfo
+
+.env
+.env.local
+.env*.local
+
+.DS_Store
+Thumbs.db
+
+# Large upstream snapshot — refetched every run, never committed
+.cache/
+pipeline/.cache/
+
+# copied from data/ by web/scripts/sync-data.mjs on every refresh, dev and build.
+# data/ is the committed one, a second committed copy would just go stale.
+web/public/data/
+
+.vercel
+# wrangler's local dev state
+.wrangler/
+coverage/
+test-results/
+playwright-report/
+
+# my notes for claude code. they stay on my machine and don't belong in the
+# public repo.
+CLAUDE.md

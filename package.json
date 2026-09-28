@@ -1,0 +1,22 @@
+{
+  "name": "internship-tracker",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Undergraduate-eligible SWE/SDE internship tracker with automated closure verification",
+  "workspaces": [
+    "pipeline",
+    "web"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "refresh": "npm run start -w pipeline && npm run sync -w web",
+    "refresh:fast": "npm run start -w pipeline -- --no-verify && npm run sync -w web",
+    "refresh:force": "npm run start -w pipeline -- --force && npm run sync -w web",
+    "test": "npm run test -w pipeline && npm run test -w web",
+    "typecheck": "npm run typecheck -w pipeline && npm run typecheck -w web",
+    "dev": "npm run dev -w web",
+    "build": "npm run build -w web"
+  }
+}
