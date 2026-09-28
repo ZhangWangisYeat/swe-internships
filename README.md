@@ -187,36 +187,6 @@ this repo through Cloudflare's GitHub app. `wrangler.jsonc` at the root points i
 file has to be there, because the root is an npm workspace and Cloudflare's auto-detection just gives
 up on those.
 
-| Setting | Value |
-| --- | --- |
-| Production branch | `main` |
-| Build command | `npm run build` |
-| Deploy command | `npx wrangler deploy` |
-| Build variable `NEXT_PUBLIC_SITE_URL` | the site's public address |
-| Build variable `NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION` | the token from Google Search Console's HTML-tag method (optional) |
-
-Both of those are read by `next build`, so they go in the Worker's **build** variables, not the
-runtime ones.
-
-The Node version comes from `.node-version`. `data/jobs.json` is part of the build output, so new
-listings only go live when the site rebuilds. Every data commit from the refresh Action triggers a
-Cloudflare build, and pages that are already open pick up the new file when you come back to the
-tab or within 30 minutes.
-
-`NEXT_PUBLIC_SITE_URL` is used for canonical links, `sitemap.xml`, `robots.txt` and link previews.
-If it points at the wrong address, search engines think the pages are copies of some other site,
-so remember to change it if I ever add a custom domain.
-
-**Search visibility.** The table gets drawn by JavaScript and only renders the rows you can see, so
-search engines can't really read it. That's why each page also builds a plain list of every role
-into the HTML (`RoleIndex`) plus a short explainer (`HowItWorks`), and that's what actually gets
-indexed. The titles and descriptions include the live role count and the season (`lib/seo.ts`).
-
-Any other static host works the same way (build with `npm run build`, serve `web/out`). For GitHub
-Pages, if the repo isn't at the root of the domain, set `basePath` in `web/next.config.ts` **and set
-`NEXT_PUBLIC_BASE_PATH` to the same value**. Otherwise the pages will look for `/data/jobs.json` at
-the root of the domain and fail to load anything.
-
 ## Caveats
 
 - The upstream list is community-maintained and not perfect. The independent verification is what
@@ -231,3 +201,9 @@ the root of the domain and fail to load anything.
   resume you can actually back up in an interview.
 - Verification only makes read-only GET requests to public pages. They're rate-limited and
   identify themselves with a User-Agent.
+
+## Notes
+ - Version 1.1 will likely be dynamic, with a login in to store your flagged applications, along
+   with a way to possibly automatically update your resume or cover letter with any keywords using AI
+   additions. 
+ - I definitely wrote too much 
