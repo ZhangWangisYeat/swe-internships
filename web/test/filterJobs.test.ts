@@ -143,10 +143,6 @@ describe('filterJobs', () => {
     expect(filterJobs(rows, f({ hideNoSponsorship: true })).map((r) => r.id)).toEqual(['a', 'b']);
   });
 
-  it('filters to new roles only', () => {
-    expect(filterJobs(rows, f({ newOnly: true })).map((r) => r.id)).toEqual(['d']);
-  });
-
   it('filters by tracker state', () => {
     expect(filterJobs(rows, f({ track: 'saved' })).map((r) => r.id)).toEqual(['a']);
     expect(filterJobs(rows, f({ track: 'applied' })).map((r) => r.id)).toEqual(['b']);

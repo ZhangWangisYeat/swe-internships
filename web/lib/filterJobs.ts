@@ -60,7 +60,6 @@ export function matchesFilters(row: DecoratedJob, filters: FilterValue, locSet: 
   if (locSet.size > 0 && !row.locations.some((l) => locSet.has(l))) return false;
   if (filters.remoteOnly && !row.remote) return false;
   if (filters.hideNoSponsorship && BLOCKED_SPONSORSHIP.has(row.sponsorship)) return false;
-  if (filters.newOnly && !row.isNew) return false;
 
   if (filters.track === 'saved' && row.track !== 'saved') return false;
   if (filters.track === 'applied' && row.track !== 'applied') return false;

@@ -22,7 +22,7 @@ that role, a save/applied tracker, and a "new since your last visit" badge.
 ## How it works
 
 ```
-GitHub Action (every 6h)                      Static site (no server)
+GitHub Action (every 3h)                      Static site (no server)
 ┌──────────────────────────────┐              ┌────────────────────────────┐
 │ 1. fetch upstream listings   │              │ reads data/jobs.json        │
 │ 2. filter: degree level +    │   commits    │ revalidates on load, focus, │
@@ -182,10 +182,9 @@ record of when every role opened and closed.
 
 ## Deploying
 
-The site runs on **Cloudflare** (free tier) as a Worker that only serves static files, hooked up to
-this repo through Cloudflare's GitHub app. `wrangler.jsonc` at the root points it at `web/out`. That
-file has to be there, because the root is an npm workspace and Cloudflare's auto-detection just gives
-up on those.
+The site runs on **Cloudflare Pages** (free tier) at `swe-internships.pages.dev`, hooked up to this
+repo through Cloudflare's GitHub app. I went with Pages over a Worker because the site is just static
+files, and Pages gives you the shorter address.
 
 ## Caveats
 

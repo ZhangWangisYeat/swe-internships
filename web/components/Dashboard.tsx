@@ -57,7 +57,6 @@ export function Dashboard({ level, initialCounts, children }: Props) {
 
   const locations = useMemo(() => locationOptions(jobs), [jobs]);
 
-  const newCount = useMemo(() => rows.filter((r) => r.isNew).length, [rows]);
   const savedCount = useMemo(() => rows.filter((r) => r.track === 'saved').length, [rows]);
   const appliedCount = useMemo(() => rows.filter((r) => r.track === 'applied').length, [rows]);
 
@@ -124,7 +123,6 @@ export function Dashboard({ level, initialCounts, children }: Props) {
           value={filters}
           onChange={setFilters}
           locationOptions={locations}
-          newCount={newCount}
           savedCount={savedCount}
           appliedCount={appliedCount}
           resultCount={filtered.length}

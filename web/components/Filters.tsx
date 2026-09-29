@@ -9,7 +9,6 @@ export interface FilterValue {
   locations: string[];
   remoteOnly: boolean;
   hideNoSponsorship: boolean;
-  newOnly: boolean;
   track: TrackFilter;
 }
 
@@ -18,7 +17,6 @@ export const EMPTY_FILTERS: FilterValue = {
   locations: [],
   remoteOnly: false,
   hideNoSponsorship: false,
-  newOnly: false,
   track: 'all',
 };
 
@@ -26,7 +24,6 @@ interface Props {
   value: FilterValue;
   onChange: (next: FilterValue) => void;
   locationOptions: Array<{ label: string; count: number }>;
-  newCount: number;
   savedCount: number;
   appliedCount: number;
   resultCount: number;
@@ -43,7 +40,6 @@ export function Filters({
   value,
   onChange,
   locationOptions,
-  newCount,
   savedCount,
   appliedCount,
   resultCount,
@@ -93,7 +89,6 @@ export function Filters({
     value.locations.length > 0 ||
     value.remoteOnly ||
     value.hideNoSponsorship ||
-    value.newOnly ||
     value.track !== 'all';
 
   return (
@@ -195,18 +190,6 @@ export function Filters({
           className={value.remoteOnly ? `${chip} ${chipOn}` : `${chip} ${chipOff}`}
         >
           Remote
-        </button>
-
-        <button
-          type="button"
-          aria-pressed={value.newOnly}
-          onClick={() => set('newOnly', !value.newOnly)}
-          title="Only roles posted since your last visit"
-          className={value.newOnly ? `${chip} ${chipOn}` : `${chip} ${chipOff}`}
-          disabled={newCount === 0}
-        >
-          New
-          {newCount > 0 && <span className="tnum opacity-70">{newCount}</span>}
         </button>
 
         <button

@@ -16,7 +16,7 @@ export interface SanityCheck {
   message?: string;
 }
 
-async function readPreviousJobs(): Promise<Job[] | undefined> {
+export async function readPreviousJobs(): Promise<Job[] | undefined> {
   try {
     const raw = await fs.readFile(JOBS_PATH, 'utf8');
     const parsed = JSON.parse(raw) as { jobs?: Job[] } | Job[];

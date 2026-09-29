@@ -1,4 +1,5 @@
-import { emit } from './emit.js';
+import { classifyRemovals } from './diff.js';
+import { emit, readPreviousJobs } from './emit.js';
 import { filterListings } from './filter.js';
 import { DICTIONARY_VERSION } from './keywords/dictionary.js';
 import { fetchListings } from './sources/simplify.js';
@@ -132,6 +133,17 @@ async function main(): Promise<void> {
   // anything whose firstSeenAt is this exact run is brand new
   const newIds = jobs.filter((j) => j.firstSeenAt === nowIso).map((j) => j.id);
 
+  // and everything that was on the site last time but isn't now, with a reason,
+  // so the commit message can say more than just our own closures
+  const previous = await readPreviousJobs();
+  const removals = classifyRemovals(
+    (previous ?? []).map((j) => j.id),
+    new Set(jobs.map((j) => j.id)),
+    removed,
+    listings,
+    now,
+  );
+
   const meta: Meta = {
     generatedAt: nowIso,
     sourceRepo: repo,
@@ -145,7 +157,13 @@ async function main(): Promise<void> {
     },
     tiers,
     verification: { attempted, byAdapter, durationMs, skippedFresh },
-    diff: { newIds, closedIds: removedIds },
+    diff: {
+      newIds,
+      closedIds: removedIds,
+      closedUpstreamIds: removals.closedUpstream,
+      pastTermIds: removals.pastTerm,
+      otherRemovedIds: removals.other,
+    },
     // recomputed from what actually got emitted, so closed removals are reflected
     byLevel: {
       undergrad: jobs.filter((j) => j.levels.includes('undergrad')).length,
@@ -175,6 +193,12 @@ async function main(): Promise<void> {
   );
   console.log(`  resume keywords on ${withSkills} roles (${pct(withSkills, jobs.length)})`);
   if (newIds.length > 0) console.log(`  ${newIds.length} new since last run`);
+  if (removals.closedUpstream.length + removals.pastTerm.length + removals.other.length > 0) {
+    console.log(
+      `  also gone since last run: ${removals.closedUpstream.length} closed upstream, ` +
+        `${removals.pastTerm.length} past their term, ${removals.other.length} other`,
+    );
+  }
   for (const w of warnings) console.log(`  ! ${w}`);
 }
 

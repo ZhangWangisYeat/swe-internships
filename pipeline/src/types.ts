@@ -127,7 +127,12 @@ export interface Meta {
   };
   diff: {
     newIds: string[];
+    // closed by our own verification (two strikes)
     closedIds: string[];
+    // everything else that left since last run, split by reason (see diff.ts)
+    closedUpstreamIds: string[];
+    pastTermIds: string[];
+    otherRemovedIds: string[];
   };
   cycleTerms: string[];
   warnings: string[];

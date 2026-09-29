@@ -2,9 +2,13 @@ name: Refresh listings
 
 on:
   schedule:
-    # every 6 hours. the source list only updates daily so there's no point going
-    # faster, and this way we're not constantly hitting companies' job boards.
-    - cron: '0 */6 * * *'
+    # every 3 hours, at 23 past. simplify updates its list every 30 minutes, so
+    # waiting 6 hours was leaving new roles off the site for longer than it had to.
+    # and it's not on the hour on purpose: github delays or just drops scheduled runs
+    # at :00 when it's busy (the first day this repo was up, only 2 of 4 runs
+    # happened, both hours late). verified-open roles are cached for 12h, so running
+    # more often mostly just checks the new ones and doesn't hammer job boards.
+    - cron: '23 */3 * * *'
   workflow_dispatch:
     inputs:
       force:
@@ -75,7 +79,9 @@ jobs:
                 `| Closed and removed | ${c.closedRemoved} |`,
                 "",
                 `Tiers: T1=${m.tiers.T1} T2=${m.tiers.T2} T3=${m.tiers.T3}`,
-                `New: ${m.diff.newIds.length} · Closed: ${m.diff.closedIds.length}`,
+                `New: ${m.diff.newIds.length} · Closed by us: ${m.diff.closedIds.length} · ` +
+                  `Closed upstream: ${m.diff.closedUpstreamIds.length} · Past their term: ${m.diff.pastTermIds.length} · ` +
+                  `Other: ${m.diff.otherRemovedIds.length}`,
                 `Cycle: ${m.cycleTerms.join(", ")}`,
                 "",
                 "| Adapter | Open | Closed | Unknown |",
@@ -103,10 +109,18 @@ jobs:
 
           COUNT=$(node -p "require('./data/jobs.json').count")
           NEW=$(node -p "require('./data/meta.json').diff.newIds.length")
-          GONE=$(node -p "require('./data/meta.json').diff.closedIds.length")
+          # every reason a role can leave, not just our own closures. it used to only
+          # count those, so a day when 125 fall roles aged out said "-19 closed" and
+          # looked like the pipeline was losing roles.
+          GONE=$(node -p "const d = require('./data/meta.json').diff; d.closedIds.length + d.closedUpstreamIds.length + d.pastTermIds.length + d.otherRemovedIds.length")
+          WHY=$(node -p "const d = require('./data/meta.json').diff; [[d.closedIds, 'closed'], [d.closedUpstreamIds, 'closed upstream'], [d.pastTermIds, 'past term'], [d.otherRemovedIds, 'other']].filter(([ids]) => ids.length).map(([ids, why]) => ids.length + ' ' + why).join(', ')")
 
           git add data/
-          git commit -m "data: ${COUNT} open roles (+${NEW} new, -${GONE} closed)"
+          if [ "$GONE" -gt 0 ]; then
+            git commit -m "data: ${COUNT} open roles (+${NEW} new, -${GONE} gone: ${WHY})"
+          else
+            git commit -m "data: ${COUNT} open roles (+${NEW} new)"
+          fi
 
           # if anyone pushed to main while this was running (~2 min), a plain push
           # gets rejected and the whole refresh is thrown away. that happened the

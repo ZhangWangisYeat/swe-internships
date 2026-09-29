@@ -32,7 +32,7 @@ export function levelMetadata(level: DegreeLevel): Metadata {
 
   const title = s ? `${s} ${audience.title}` : audience.title;
   // kept under ~160 characters, past that google cuts it off with "...". it says
-  // the list updates every 6 hours and not that every role gets checked that often,
+  // the list updates every few hours and not that every role gets checked that often,
   // because a role that's already confirmed open is only rechecked every 12.
   const description =
     count > 0
