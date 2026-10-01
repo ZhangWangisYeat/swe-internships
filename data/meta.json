@@ -1,80 +1,74 @@
 {
-  "generatedAt": "2026-10-01T00:37:53.906Z",
+  "generatedAt": "2026-10-01T10:18:20.429Z",
   "sourceRepo": "Summer2027-Internships",
   "counts": {
-    "upstreamTotal": 16987,
-    "afterActive": 4433,
-    "afterDegree": 4433,
-    "afterCategory": 1500,
-    "afterCycle": 961,
-    "verifiedOpen": 894,
-    "unverified": 49,
+    "upstreamTotal": 16983,
+    "afterActive": 4390,
+    "afterDegree": 4390,
+    "afterCategory": 1491,
+    "afterCycle": 956,
+    "verifiedOpen": 883,
+    "unverified": 55,
     "closedRemoved": 18,
-    "emitted": 943,
-    "withSkills": 708
+    "emitted": 938,
+    "withSkills": 705
   },
   "tiers": {
-    "T1": 224,
-    "T2": 329,
-    "T3": 408
+    "T1": 222,
+    "T2": 328,
+    "T3": 406
   },
   "verification": {
-    "attempted": 82,
+    "attempted": 942,
     "byAdapter": {
       "cache": {
-        "open": 879,
+        "open": 14,
         "closed": 0,
         "unknown": 0
       },
       "greenhouse": {
-        "open": 0,
-        "closed": 0,
+        "open": 105,
+        "closed": 1,
         "unknown": 4
       },
       "ashby": {
-        "open": 2,
+        "open": 59,
         "closed": 3,
         "unknown": 0
       },
       "lever": {
-        "open": 1,
+        "open": 29,
         "closed": 0,
         "unknown": 0
       },
-      "generic": {
-        "open": 5,
-        "closed": 6,
-        "unknown": 44
-      },
       "smartrecruiters": {
-        "open": 0,
+        "open": 9,
         "closed": 9,
         "unknown": 0
       },
       "workday": {
-        "open": 7,
+        "open": 317,
         "closed": 0,
-        "unknown": 1
+        "unknown": 4
+      },
+      "generic": {
+        "open": 350,
+        "closed": 7,
+        "unknown": 45
       }
     },
-    "durationMs": 46654,
-    "skippedFresh": 879
+    "durationMs": 82426,
+    "skippedFresh": 14
   },
   "diff": {
     "newIds": [
-      "d6c24595-0dd3-449f-b0ae-d13e256fc740",
-      "d9fe6653-450b-49d8-95c7-a83d1250932c",
-      "8333b344-795f-4400-aa23-11358ddd296e",
-      "a9e99925-f394-4b08-906d-b96b7591cbc8",
-      "7f191783-2ab3-4626-a830-2072091a9f5a",
-      "7ad6c160-b084-4ec2-9be1-3617d01137d1",
-      "3652392f-5646-4168-b539-ac3e5a186acd",
-      "e8c586d7-f281-4ffc-bd41-078c7158f059",
-      "982c416c-c960-4efd-81a7-a87081597d80",
-      "f3437876-fa5c-490c-a81a-74af68437738",
-      "bc6412bd-7dbe-456e-8c67-d2002acadeaa",
-      "6eed7061-5a5f-4b68-98e6-bdfe0e5d31c2",
-      "2b8a623c-d139-413c-aff2-d9afce6a38e4"
+      "9fe00265-7716-44f9-bc43-1017aa863220",
+      "0bb25d49-891c-45e8-9504-1d5c8d923aa3",
+      "aee0379e-2573-4cfb-b9b3-e212ca032e4a",
+      "bb3c5751-35bc-4618-83e8-1af1b888f533",
+      "48975da5-2bb2-4457-8702-de4898cd805e",
+      "8b6adedc-bcf4-4553-9fa2-ff61cdd5425f",
+      "da112e4c-4b18-4df4-9cad-95acdd778d6f"
     ],
     "closedIds": [
       "8569a45d-e504-4cc5-897a-de907ab8e0f7",
@@ -97,21 +91,26 @@
       "9e770238-e3ff-491f-baa6-08a85518e661"
     ],
     "closedUpstreamIds": [
-      "e8fda496-e9f1-4644-a3fb-c4b72895a3dc",
-      "0852a12d-b8e1-4765-bdb1-fe6f25d996b0",
-      "081c3f7a-8349-45b9-a41b-8cf97ca466ba",
-      "4c9300c5-0978-44ca-8fda-f74e4c97061c",
-      "6c668749-9b77-4c73-a3c7-e202655f53ab",
-      "bf7e98b1-96ae-4c81-809d-7bf031fbbe77",
-      "1949c912-65b2-42ac-9836-c110baed0ef6"
+      "d6c24595-0dd3-449f-b0ae-d13e256fc740",
+      "c49714fc-aeef-44fd-9c2c-b2eae660a74e",
+      "32b50162-20ab-42eb-9e0c-dcff21dd5c0c",
+      "9a01359d-4d56-45ec-a90a-9d2f1d40cf52",
+      "54d89b96-1ff8-49ce-99e9-b03c8d093745",
+      "5b07d830-b50d-4cff-a64a-555dad0ea478",
+      "12e13643-ecc8-42a5-b20c-2c17fd0c17a0",
+      "08445ede-7741-4ed7-b8db-6b8a9334c0e4",
+      "9ab1c4b6-7573-49a7-80b3-d93982ec29dd",
+      "ac34479a-59f5-4dd7-afad-64f30851650e",
+      "057837b7-3fc8-4359-a8b2-1a63802d4a6e",
+      "3f62999c-13f9-4d85-b98b-66660fd47199"
     ],
     "pastTermIds": [],
     "otherRemovedIds": []
   },
   "byLevel": {
-    "undergrad": 889,
+    "undergrad": 882,
     "masters": 323,
-    "phd": 68
+    "phd": 70
   },
   "cycleTerms": [
     "Fall 2027",
