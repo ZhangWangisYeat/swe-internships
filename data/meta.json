@@ -1,73 +1,65 @@
 {
-  "generatedAt": "2026-10-08T10:45:43.794Z",
+  "generatedAt": "2026-10-08T18:55:17.284Z",
   "sourceRepo": "Summer2027-Internships",
   "counts": {
-    "upstreamTotal": 17195,
-    "afterActive": 4661,
-    "afterDegree": 4660,
-    "afterCategory": 1552,
-    "afterCycle": 1031,
-    "verifiedOpen": 958,
-    "unverified": 53,
+    "upstreamTotal": 17200,
+    "afterActive": 4632,
+    "afterDegree": 4631,
+    "afterCategory": 1534,
+    "afterCycle": 1017,
+    "verifiedOpen": 945,
+    "unverified": 52,
     "closedRemoved": 20,
-    "emitted": 1011,
-    "withSkills": 780
+    "emitted": 997,
+    "withSkills": 766
   },
   "tiers": {
-    "T1": 248,
-    "T2": 354,
-    "T3": 429
+    "T1": 247,
+    "T2": 346,
+    "T3": 424
   },
   "verification": {
-    "attempted": 1011,
+    "attempted": 94,
     "byAdapter": {
       "cache": {
-        "open": 20,
+        "open": 923,
         "closed": 0,
         "unknown": 0
       },
       "greenhouse": {
-        "open": 123,
+        "open": 0,
         "closed": 0,
         "unknown": 4
       },
       "ashby": {
-        "open": 68,
+        "open": 4,
         "closed": 3,
         "unknown": 0
       },
-      "lever": {
-        "open": 29,
-        "closed": 0,
-        "unknown": 0
-      },
-      "smartrecruiters": {
-        "open": 9,
-        "closed": 9,
-        "unknown": 0
-      },
-      "workday": {
-        "open": 342,
-        "closed": 0,
-        "unknown": 3
-      },
       "generic": {
-        "open": 367,
+        "open": 5,
         "closed": 8,
         "unknown": 46
+      },
+      "workday": {
+        "open": 13,
+        "closed": 0,
+        "unknown": 2
+      },
+      "smartrecruiters": {
+        "open": 0,
+        "closed": 9,
+        "unknown": 0
       }
     },
-    "durationMs": 92647,
-    "skippedFresh": 20
+    "durationMs": 46700,
+    "skippedFresh": 923
   },
   "diff": {
     "newIds": [
-      "7d8242ec-06c9-4afb-abfb-ccbd11a5f47b",
-      "8c2db8ba-8874-4c57-8689-34298f844251",
-      "9824f95e-030c-4a9f-984a-a8e683459e9a",
-      "53e2d2ca-2bf9-417b-8c18-b1af4a682042",
-      "35fa2d9c-f299-480e-9fe2-b35b1808c7aa",
-      "66fcf084-7f7c-43ed-8947-83179031963c"
+      "38c7776b-a885-4f1e-af66-2816ed57ba66",
+      "92b36766-febe-474d-941e-0bf16bc2ecc0",
+      "64ffe791-24fc-4b7a-b06b-90a8bc63b978"
     ],
     "closedIds": [
       "8569a45d-e504-4cc5-897a-de907ab8e0f7",
@@ -92,23 +84,33 @@
       "a8655c72-8299-4087-b0ad-d93807cef979"
     ],
     "closedUpstreamIds": [
-      "d9aac9f7-0c18-43c3-a877-644cfdbdb57a",
-      "1eea74f4-210e-412d-8623-b056f6cfd9fa",
-      "23548c7d-01ff-437f-ae9c-07e51f4c86b4",
-      "074a0da6-73e2-402d-90a7-ca4bf302d862",
-      "5194c40c-a075-4ccb-a3eb-6ff62d2644b2",
-      "3e0882ef-3682-46f4-b5a5-bf8dadcf4a08",
-      "c7bb326d-a5b8-4309-aeeb-22fdd6428e47",
-      "4c0cebd4-5e15-474e-8493-34860927bdfb",
-      "9fe00265-7716-44f9-bc43-1017aa863220"
+      "66fcf084-7f7c-43ed-8947-83179031963c",
+      "7d8242ec-06c9-4afb-abfb-ccbd11a5f47b",
+      "641f64cb-e677-4df1-af7f-bdd1c841f0cd",
+      "2310df58-69a1-4c21-bf0c-0ab23ab3e493",
+      "90c25126-50a6-4b5d-9e2d-37ab9ecacb13",
+      "85e1ecd6-59bf-43b2-9cd7-81751b18a650",
+      "9e2f8163-afa0-4258-a030-46e5bc9b6ce4",
+      "8b6adedc-bcf4-4553-9fa2-ff61cdd5425f",
+      "cfd65384-8de0-4673-9086-3e19b4843b5e",
+      "d6c24595-0dd3-449f-b0ae-d13e256fc740",
+      "ddf6cf13-0a0b-4f97-93eb-c88083de5316",
+      "8c988a2d-c958-4ab4-bca3-72276613b164",
+      "5088fa08-1fde-498a-b509-50c003c17fa5",
+      "2b3e7e0e-c98f-485f-a747-d5e7d92a1918",
+      "867f83e8-8c2d-4871-a154-59496914e89c",
+      "c4b04101-1a96-40a4-ab89-9a4100b785eb",
+      "06098497-6840-4802-8838-81e0dbdec164",
+      "1949c912-65b2-42ac-9836-c110baed0ef6",
+      "3ab26bfe-972a-4b2f-8014-7b6add4f83d3"
     ],
     "pastTermIds": [],
     "otherRemovedIds": []
   },
   "byLevel": {
-    "undergrad": 950,
-    "masters": 367,
-    "phd": 79
+    "undergrad": 936,
+    "masters": 362,
+    "phd": 78
   },
   "cycleTerms": [
     "Fall 2027",
