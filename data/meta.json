@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-10T09:59:52.727Z",
+  "generatedAt": "2026-10-10T17:23:58.945Z",
   "sourceRepo": "Summer2027-Internships",
   "counts": {
-    "upstreamTotal": 17185,
-    "afterActive": 4663,
-    "afterDegree": 4662,
+    "upstreamTotal": 17174,
+    "afterActive": 4668,
+    "afterDegree": 4667,
     "afterCategory": 1559,
     "afterCycle": 1051,
-    "verifiedOpen": 973,
-    "unverified": 56,
+    "verifiedOpen": 976,
+    "unverified": 53,
     "closedRemoved": 22,
     "emitted": 1029,
-    "withSkills": 790
+    "withSkills": 789
   },
   "tiers": {
     "T1": 254,
@@ -19,56 +19,45 @@
     "T3": 434
   },
   "verification": {
-    "attempted": 1001,
+    "attempted": 131,
     "byAdapter": {
       "cache": {
-        "open": 50,
+        "open": 920,
         "closed": 0,
         "unknown": 0
       },
       "greenhouse": {
-        "open": 117,
+        "open": 5,
         "closed": 0,
         "unknown": 5
       },
       "ashby": {
-        "open": 69,
+        "open": 4,
         "closed": 2,
         "unknown": 0
       },
-      "lever": {
-        "open": 33,
-        "closed": 0,
-        "unknown": 0
-      },
-      "smartrecruiters": {
-        "open": 10,
-        "closed": 9,
-        "unknown": 0
-      },
-      "workday": {
-        "open": 331,
-        "closed": 0,
-        "unknown": 5
-      },
       "generic": {
-        "open": 363,
+        "open": 17,
         "closed": 11,
         "unknown": 46
+      },
+      "workday": {
+        "open": 30,
+        "closed": 0,
+        "unknown": 2
+      },
+      "smartrecruiters": {
+        "open": 0,
+        "closed": 9,
+        "unknown": 0
       }
     },
-    "durationMs": 83325,
-    "skippedFresh": 50
+    "durationMs": 46784,
+    "skippedFresh": 920
   },
   "diff": {
     "newIds": [
-      "978157d4-2173-4f60-a1c7-5b7e4bab53ea",
-      "94a30c63-9e16-4706-b9bb-9713c9b0afd0",
-      "cedb1575-2b84-471a-8de3-e8f8bb3be3ce",
-      "0a37326a-6eb6-4459-8249-044ccfac8600",
-      "2119e688-2d27-422f-998b-c9ebd97413f3",
-      "2ab54297-543e-4470-b71e-2e95b53cd687",
-      "6f1a27e9-3515-4a43-a644-80dbddacc4bb"
+      "8f6341ff-47e2-4a91-8d5d-fca1f79014c0"
     ],
     "closedIds": [
       "8569a45d-e504-4cc5-897a-de907ab8e0f7",
@@ -95,22 +84,20 @@
       "e04f4881-a998-4a92-bdd1-8d72a3c120da"
     ],
     "closedUpstreamIds": [
-      "78a00951-890f-474e-94ee-6e0cc1a2b9f7",
-      "e0c88ae2-81b7-41b3-9fde-093c76046d48",
-      "b785f9ef-f9c9-4d16-aae2-973ad2a1b2dc",
-      "e7777af9-8bca-4dd7-b5b6-6ec86fff06f9",
-      "93d5d930-8ab2-4a53-aa31-d238b45b41d5",
-      "2a92c757-3cf3-472c-ae04-1df20bde3598",
-      "06098497-6840-4802-8838-81e0dbdec164",
-      "af90f319-0d2d-4222-9f22-92f3dab0d342"
+      "e58b01bd-a4bc-456f-b9b0-546a0288c6d3",
+      "982c416c-c960-4efd-81a7-a87081597d80",
+      "e8c586d7-f281-4ffc-bd41-078c7158f059",
+      "d6c24595-0dd3-449f-b0ae-d13e256fc740",
+      "27ef919b-f4a9-4f27-b484-e742c76fc774",
+      "1949c912-65b2-42ac-9836-c110baed0ef6"
     ],
     "pastTermIds": [],
     "otherRemovedIds": []
   },
   "byLevel": {
     "undergrad": 969,
-    "masters": 377,
-    "phd": 84
+    "masters": 374,
+    "phd": 83
   },
   "cycleTerms": [
     "Fall 2027",
