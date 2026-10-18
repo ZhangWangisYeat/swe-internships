@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-10-18T15:59:51.252Z",
+  "generatedAt": "2026-10-18T20:54:46.182Z",
   "sourceRepo": "Summer2027-Internships",
   "counts": {
-    "upstreamTotal": 17145,
-    "afterActive": 4794,
-    "afterDegree": 4794,
-    "afterCategory": 1589,
-    "afterCycle": 1108,
-    "verifiedOpen": 1030,
+    "upstreamTotal": 17140,
+    "afterActive": 4791,
+    "afterDegree": 4791,
+    "afterCategory": 1588,
+    "afterCycle": 1107,
+    "verifiedOpen": 1029,
     "unverified": 53,
     "closedRemoved": 25,
-    "emitted": 1083,
+    "emitted": 1082,
     "withSkills": 829
   },
   "tiers": {
     "T1": 274,
     "T2": 385,
-    "T3": 449
+    "T3": 448
   },
   "verification": {
-    "attempted": 78,
+    "attempted": 84,
     "byAdapter": {
       "cache": {
-        "open": 1030,
+        "open": 1023,
         "closed": 0,
         "unknown": 0
       },
@@ -47,13 +47,13 @@
         "unknown": 0
       },
       "workday": {
-        "open": 0,
+        "open": 6,
         "closed": 0,
         "unknown": 2
       }
     },
-    "durationMs": 46528,
-    "skippedFresh": 1030
+    "durationMs": 46547,
+    "skippedFresh": 1023
   },
   "diff": {
     "newIds": [],
@@ -85,15 +85,13 @@
       "e5ebe73e-fdc6-49c8-b94f-5e6b5c176831"
     ],
     "closedUpstreamIds": [
-      "4cf30745-6f3b-4afc-b4a7-8c156b74804c",
-      "06098497-6840-4802-8838-81e0dbdec164",
-      "1949c912-65b2-42ac-9836-c110baed0ef6"
+      "5816604a-fdad-469c-b01d-7ee4621ca78e"
     ],
     "pastTermIds": [],
     "otherRemovedIds": []
   },
   "byLevel": {
-    "undergrad": 1017,
+    "undergrad": 1016,
     "masters": 388,
     "phd": 82
   },
