@@ -263,7 +263,7 @@
     "d58f726c-620e-4c0c-89d7-8b54421280ab": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2022-06-30T21:20:50.237Z",
       "skills": [],
@@ -277,7 +277,7 @@
     "0503901e-622f-4d1b-b7f9-29d44e59eaab": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2021-07-01T22:12:43.840Z",
       "skills": [],
@@ -2969,7 +2969,7 @@
     "f89dbf35-2e68-4087-a28a-1092da1e72d4": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "0673c550-4c1f-4d6c-b03d-e2185d8183b0": {
@@ -3530,7 +3530,7 @@
     "155f6df6-7cca-471e-8fb1-e8318faa6845": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "73c1ef4b-88b7-4b1c-b439-231e8bb950fd": {
@@ -3703,7 +3703,7 @@
     "cd27aaf0-33b6-4d6a-950e-8acff7bbe6ce": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "e9c6fbb2-27a0-4da8-bd66-1d4be992ae95": {
@@ -4716,14 +4716,14 @@
     },
     "8569a45d-e504-4cc5-897a-de907ab8e0f7": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 102,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 103,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "7e502eb4-3d9c-4f91-8e83-a471504d8a4b": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "199801ca-ff30-4280-8376-c89c13ddc645": {
@@ -5722,7 +5722,7 @@
     "706c113d-3534-4a68-8836-c8195ea3f0c9": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "3350268b-7da8-41ee-bcc6-c85f795975ac": {
@@ -5760,7 +5760,7 @@
     "0ebaa63f-d5e3-410a-82b7-0234eb9a8e1a": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "a96f8f9b-926d-483b-ba4f-ab46b0e78ac2": {
@@ -5936,19 +5936,19 @@
     "c5bd1b3f-c4a1-4606-b687-e4afcc112363": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "615b2214-ffde-44ff-b1af-d08cea6fe865": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "aac19326-02f3-415a-991f-d6a81d6a7ef9": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "81f31a55-3c12-476c-bb99-e74e63986e74": {
@@ -5974,7 +5974,7 @@
     "91d2adab-28fa-4563-b4ba-2a64e372dbed": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-21T00:00:00.000Z",
       "skills": [
@@ -6165,8 +6165,8 @@
     },
     "1795d6df-fcca-45dc-836d-41a82dc36894": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 102,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 103,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "88ee222e-f092-4c2a-ad37-b63eb0445010": {
@@ -6271,7 +6271,7 @@
     "5f396023-d3b0-4532-8632-b4b75e97bd2b": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-08-31T00:00:00.000Z",
       "skills": [
@@ -6568,7 +6568,7 @@
     "8254bef8-0753-4347-9bd2-47e5536eab40": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-08-31T00:00:00.000Z",
       "skills": [
@@ -6602,7 +6602,7 @@
     "ca835172-bf35-4ed0-b110-8dec8dc954ea": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-08-31T00:00:00.000Z",
       "skills": [
@@ -6619,7 +6619,7 @@
     "ac16b37b-d5ee-4a02-8d77-305bc1ab5168": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-08-31T00:00:00.000Z",
       "skills": [
@@ -6697,7 +6697,7 @@
     "53349dba-052e-4667-bc87-a3162afa6b94": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Java",
@@ -6917,7 +6917,7 @@
     "65097872-fc5a-464c-a9ca-5d4d382c4765": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "1d9f2320-07f1-4deb-bce1-02d20684e4e9": {
@@ -6947,7 +6947,7 @@
     "5b170a7d-3303-481f-8fa2-580c9e7274b4": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-12T00:00:00.000Z",
       "skills": [
@@ -6991,13 +6991,13 @@
     "bfeef96e-5bbc-425d-9ee0-3fa12f525bf1": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "d8558fc9-9efb-4c17-b70f-26aafda3b66a": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 102,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 103,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "53255d15-0d2f-4eb9-ac70-8e5ca175c8ab": {
@@ -7073,7 +7073,7 @@
     "f6fb04a7-b7e2-4890-8a03-fe80a235e6e5": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-08-31T15:21:36-04:00",
       "skills": [
@@ -7128,7 +7128,7 @@
     "58e64075-6609-418d-a437-22d5c25dd225": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [],
       "softSkills": [
@@ -7138,8 +7138,8 @@
     },
     "59b37959-7280-4f60-aad9-0c9a3265acc7": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 100,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "strikes": 101,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "aad0cae7-225e-41d2-b416-7d42885da521": {
@@ -7163,25 +7163,25 @@
     "7b78b68a-dea7-4e76-8753-553fdfda1113": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-09-26T09:15:53.563Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "85495d7e-4673-4650-8d26-bbe8301a8736": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "7ad48361-649c-4efe-abeb-2c80430792f5": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-09-26T09:15:53.563Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "21d6e4f1-9a13-4078-8012-b3f6e65719ac": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "081c3f7a-8349-45b9-a41b-8cf97ca466ba": {
@@ -7263,7 +7263,7 @@
     "59aad3fe-5cae-48ca-9e34-608c664e0090": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "369ef34f-cdb6-4df1-a41f-39e63dc980cc": {
@@ -7298,13 +7298,13 @@
     "9562e72a-a657-4f9c-9e2e-f8d62e41c42c": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "d906473e-9355-4328-8074-8a5479ffac70": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "974d081a-6d17-4aab-a42a-e9b35cafde7d": {
@@ -7316,7 +7316,7 @@
     "5489cdce-696e-4c2f-b1ae-e937cff71c6c": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "8b07563a-a076-4b83-b485-3f36db4ae47a": {
@@ -7342,13 +7342,13 @@
     "d6e09034-f1b8-496a-9b1c-ad916001fc4c": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "640797fc-5abf-4222-9bdb-16b62d09607e": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "93957738-d6d4-434f-bafe-6286a5b454d8": {
@@ -7360,7 +7360,7 @@
     "307102b6-7bde-45af-b161-e8eab5117a56": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "4c8571fd-a704-4542-babd-54c89d6aeff3": {
@@ -7538,7 +7538,7 @@
     "98ba4abf-1726-45e5-a03c-c711dfb81c84": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C++",
@@ -7787,7 +7787,7 @@
     "635bf0d1-e3cb-4d15-98d1-86f3a5f11691": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-01T00:00:00.000Z",
       "skills": [
@@ -7831,7 +7831,7 @@
     "768502d1-3bb6-48fe-8605-2c02c23d8e9e": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-01T18:28:54.868Z",
       "skills": [
@@ -7866,7 +7866,7 @@
     "111932e9-ef61-4e10-af00-fdf06cb493c7": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "7ae95eff-55e0-4665-83d8-efac629ebe48": {
@@ -7914,7 +7914,7 @@
     "cbbf5921-5565-4f8b-9599-adde9125fde0": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "c0acbe3a-c2ed-42ea-a71d-eb9df423a1c4": {
@@ -7960,7 +7960,7 @@
     "e23b6362-0fdf-49d6-ac3b-1c51d3febced": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-13T00:00:00.000Z",
       "skills": [
@@ -8062,7 +8062,7 @@
     "8b46d013-f73a-4d7b-bd75-7775fa71d342": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "2a48e05f-f557-488e-876c-eafef0801099": {
@@ -8078,14 +8078,14 @@
     },
     "87fa51f3-741b-402e-a1b4-f9d9b7d87222": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 102,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 103,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "af65cbd5-11f8-4a7d-a45a-939597dd3471": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "3da73fff-cf02-46b3-b53a-85633a4986ec": {
@@ -8110,8 +8110,8 @@
     },
     "b9b2b8a1-c174-460a-9af5-aaeec6fcac26": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 6,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 7,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed",
       "skills": [
         "C#",
@@ -8370,7 +8370,7 @@
     "44f6dccc-a71b-4d91-a0ad-e30134365802": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-02T00:00:00.000Z",
       "skills": [
@@ -8392,7 +8392,7 @@
     "2fb8aa8a-8920-42b2-9a24-167f54d6cc81": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-02T00:00:00.000Z",
       "skills": [
@@ -8439,7 +8439,7 @@
     "b854fca7-7546-478f-937b-a76b8dbbddae": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-02T00:00:00.000Z",
       "skills": [
@@ -8481,8 +8481,8 @@
     },
     "fb43ca64-ac2c-4698-b2fe-f67d16fff11d": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 102,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 103,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "f3552448-ae6f-4db2-8049-cea7fe1d994c": {
@@ -8550,7 +8550,7 @@
     "43841eec-e864-4974-9040-b082631ecd4c": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "e5be58b3-8e57-426f-843b-f92609fdc6d5": {
@@ -8586,7 +8586,7 @@
     "de8cb307-6829-4afa-8e31-0fefe60818e7": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "ad9376a4-7196-4ce6-a3b4-e88763b96811": {
@@ -8635,7 +8635,7 @@
     "c0048e8d-bc5e-43fe-a26c-8194823003f8": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-02T12:46:39-04:00",
       "skills": [
@@ -8659,7 +8659,7 @@
     "d31af359-a2f6-4a81-bf00-bf6e7bc1b133": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-02T12:46:38-04:00",
       "skills": [
@@ -8683,7 +8683,7 @@
     "13bbc7c4-2a80-4fd9-a89b-51601d50188c": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-02T12:44:00-04:00",
       "skills": [
@@ -8707,7 +8707,7 @@
     "85280965-7125-463a-a884-99a9b4d568fb": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-02T12:46:41-04:00",
       "skills": [
@@ -9022,7 +9022,7 @@
     "100aa374-4fc4-4766-87fe-7cdd6b8a5ecc": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-03T00:00:00.000Z",
       "skills": [
@@ -9079,7 +9079,7 @@
     "a9900edf-029b-4f1e-98cb-a9a1c96f11b3": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-18T00:00:00.000Z",
       "skills": [
@@ -9359,7 +9359,7 @@
     "f455fc61-2abc-42c1-96e2-b19e6f175508": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-03T00:00:00.000Z",
       "skills": [
@@ -10088,14 +10088,14 @@
     },
     "3f3c2722-e6f4-460f-a318-ada5d0e970f7": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 30,
-      "lastVerifiedAt": "2026-10-04T06:03:52.099Z",
+      "strikes": 31,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "64710cc0-783e-46c6-bf40-0094991af6e5": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 102,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 103,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "5824240e-2adc-4a7c-9e37-ff62114f248e": {
@@ -10330,13 +10330,13 @@
     "344ab169-a8ca-4178-8d88-e864f5408c19": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "58cf8fe8-1a98-42de-92d9-2a915d02739d": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-04T12:00:19-04:00",
       "skills": [
@@ -10382,7 +10382,7 @@
     "48deab81-0a6d-4ccd-9930-4461d39615e6": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-03T12:51:50-04:00",
       "skills": [
@@ -10413,7 +10413,7 @@
     "9782344e-0072-4996-ae4d-b36ef27d13db": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "211d1319-7021-4fda-abc6-6b2d24ffb794": {
@@ -10776,7 +10776,7 @@
     "e6dbbc55-6f12-4929-aae1-6c7b7e14a24b": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C++",
@@ -11209,7 +11209,7 @@
     "107f6694-f8a2-45ff-bb58-e77552dc317c": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-08T00:00:00.000Z",
       "skills": [
@@ -11230,7 +11230,7 @@
     "a1c4c9f3-d62d-413d-937e-97b35075c9c6": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-08T00:00:00.000Z",
       "skills": [
@@ -11286,8 +11286,8 @@
     },
     "e808ba48-68a5-402a-b394-ca05a260cfe8": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 102,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 103,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "e1603af0-76f6-45ef-9e17-0d369d550c96": {
@@ -11416,8 +11416,8 @@
     },
     "22c498d3-8378-49bf-8181-93668696961d": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 44,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 45,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed",
       "skills": [
         "C#",
@@ -11439,8 +11439,8 @@
     },
     "efdbf872-56ce-47fe-97fd-06358188e716": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 44,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 45,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed",
       "skills": [
         "C#",
@@ -11496,7 +11496,7 @@
     "52c6c00b-0538-4eae-ba83-7a32198496a7": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "85540257-a4da-4ca2-ac59-9b5aafe5068f": {
@@ -11737,8 +11737,8 @@
     "b93e1e71-e120-4e6d-8deb-aff1ce68d3f1": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
-      "lastStatus": "open",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "unverified",
       "publishedAt": "2026-09-09T00:00:00.000Z",
       "skills": [
         "Python",
@@ -11761,7 +11761,7 @@
     "c7dca39a-27ef-4e1d-a94e-b69ede82a562": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "JavaScript"
@@ -11771,26 +11771,26 @@
     },
     "8af537c8-1c4a-4baf-a924-99bf28fc30a0": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 102,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 103,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "ece3f59c-0b44-40f0-8f75-a361ad895c47": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 102,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 103,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "50162e18-1bb9-44c1-94a0-0922daf6f38b": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "054b254c-cc0b-47dd-a2c2-98cf50c0269f": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 102,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 103,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "36ded0a7-bb49-4395-ad3a-32a1fa86b8b2": {
@@ -11818,13 +11818,13 @@
     "dac9504d-3656-4127-972c-fc70bc04666a": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "a023874d-88f4-4e6c-a29a-681d54bc45f9": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C#",
@@ -11847,8 +11847,8 @@
     "d96e9b38-f776-431d-9b9c-d75fa74ab6a8": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
-      "lastStatus": "open",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "unverified",
       "publishedAt": "2026-09-09T00:00:00.000Z",
       "skills": [
         "Python",
@@ -11889,7 +11889,7 @@
     "3c16cf25-2344-4449-8c12-a8dd16ebdaf2": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C#",
@@ -11911,7 +11911,7 @@
     "21f9c4dc-c7c2-4e98-bff4-c5632ecddd7f": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C#",
@@ -11941,7 +11941,7 @@
     "e324dbfe-55ba-4099-a9f0-2268a787100e": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-09T19:16:29.655Z",
       "skills": [
@@ -12043,7 +12043,7 @@
     "bdf30f76-458b-4527-9924-6423f7c5ebd4": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-09T15:13:24-04:00",
       "skills": [
@@ -12151,7 +12151,7 @@
     "fa3df2ae-5069-483a-8e2a-bd02d06b7b4f": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "ef40c957-572d-4f46-9bab-b7378678804d": {
@@ -12197,7 +12197,7 @@
     "25c808c8-0a2f-4eaf-8ec7-e6ba82c075f6": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "59607dda-cef3-4eb4-8c26-edee74b6dd72": {
@@ -12227,7 +12227,7 @@
     "26b76573-439e-42cf-b4a5-f38f8408610c": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "b7311fa1-4180-4d5a-8ce3-29a7c2703ea1": {
@@ -12245,7 +12245,7 @@
     "eabf370c-678d-4de3-925f-22d7298aeb68": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "JavaScript"
@@ -12472,7 +12472,7 @@
     "571e7550-1637-482e-9a38-7d49957afb03": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "abca08df-81cc-4033-8740-151c214e5686": {
@@ -12596,13 +12596,13 @@
     "df13ab5f-9eb4-4357-86df-afc457026297": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "a6be63fe-0ed7-4ad2-a4f7-774bd97b77b8": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "e97a377e-d1c0-4278-86c7-389bacdaa737": {
@@ -12752,13 +12752,13 @@
     "da6c09b8-173d-4c72-bf85-472ace81bd4b": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "6db7a199-b2fc-411a-bc8e-960bd3c02f28": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-11T11:37:05-04:00",
       "skills": [
@@ -12819,7 +12819,7 @@
     "c3a3cae1-f9a1-4c9b-bc38-1b3859ce6744": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Machine Learning",
@@ -12943,7 +12943,7 @@
     "eb4588fd-1b28-4f95-b27c-2742b4ca906e": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-11T21:07:58.418+00:00",
       "skills": [
@@ -13006,7 +13006,7 @@
     "4f3b12a6-0ecd-425c-8959-5b8f1ce9d772": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "CSS",
@@ -13035,7 +13035,7 @@
     "f968b448-0edf-43ed-9f4c-8954bef0183b": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-11T21:24:20-04:00",
       "skills": [
@@ -13107,7 +13107,7 @@
     "c4f9efb0-cfe9-4fa9-8eba-dd91a195bd79": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-12T16:18:46.574Z",
       "skills": [
@@ -13160,7 +13160,7 @@
     "8155c07e-de11-481a-ba23-c42178f1189c": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-14T00:00:00.000Z",
       "skills": [
@@ -13265,7 +13265,7 @@
     "1032792e-ebaa-4f37-8619-e4388cda6fbc": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-14T09:12:21-04:00",
       "skills": [
@@ -13589,7 +13589,7 @@
     "ef6779b9-6706-4217-8b3a-09ef98f4faf4": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-14T00:00:00.000Z",
       "skills": [
@@ -13612,9 +13612,9 @@
     "e772b664-062b-4315-9007-69460c23019c": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-09-28T07:07:20.486Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
-      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
       "skills": [
         "CSS",
         "TypeScript",
@@ -13658,7 +13658,7 @@
     "9d613826-b169-4950-9be3-779d329aab98": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C#",
@@ -13681,7 +13681,7 @@
     "fdbbada2-df05-4944-b424-c36fcf81ead1": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-14T17:40:47.757Z",
       "skills": [
@@ -13695,7 +13695,7 @@
     "c0de0a9c-5b04-458f-942a-5c88c3747d9f": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-14T13:36:24-04:00",
       "skills": [
@@ -13719,7 +13719,7 @@
     "34ec0b27-bbab-4d78-9eb3-2900f2f91255": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-14T13:36:20-04:00",
       "skills": [
@@ -13743,7 +13743,7 @@
     "167090cb-a6cc-4740-9731-6e37db8ce44d": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-14T17:49:16.309Z",
       "skills": [
@@ -13896,7 +13896,7 @@
     "6be172ec-d3a7-445d-8218-d442e9c6dd1c": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-14T00:00:00.000Z",
       "skills": [
@@ -13920,7 +13920,7 @@
     "16259630-05fe-40a2-bf93-dd529c139975": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-14T00:00:00.000Z",
       "skills": [
@@ -13960,7 +13960,7 @@
     "aa3c83d6-07d6-42b6-8f0d-a6922438b781": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-14T00:00:00.000Z",
       "skills": [
@@ -13979,7 +13979,7 @@
     "8c99415f-da68-4a3b-b2eb-ba83bc24e6dc": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-14T00:00:00.000Z",
       "skills": [
@@ -14261,7 +14261,7 @@
     "0f05f901-79ef-44c8-8b4a-32d22a87c73c": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-14T00:00:00.000Z",
       "skills": [
@@ -14277,7 +14277,7 @@
     "d36d149f-2f21-4ced-b474-e6dfb0876186": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "c64a512f-2622-44bb-9b61-40e707833008": {
@@ -14315,7 +14315,7 @@
     "36e1c66a-1cae-4b36-b414-d74b38a44a7f": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-14T15:01:54-04:00",
       "skills": [],
@@ -14442,7 +14442,7 @@
     "f738e9df-005d-49b2-b408-266feeacf24b": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "8bab5dd2-9265-4515-b6ba-b4ca2af51a80": {
@@ -14506,7 +14506,7 @@
     "a8c12424-098d-4d97-9658-8820b0fdac3e": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Machine Learning"
@@ -14590,7 +14590,7 @@
     "5d113196-e5fd-48bb-9ca5-3ffccfb4683d": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "232751f3-952f-47d4-922c-fd11763f1d6a": {
@@ -14692,7 +14692,7 @@
     "81f7768f-10a0-4ecd-bed1-3e66d96f5cdb": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Python",
@@ -15206,7 +15206,7 @@
     "c4d18418-d4a9-4c9d-900d-4ffe42c1b1c6": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-16T11:02:23-04:00",
       "skills": [
@@ -15230,7 +15230,7 @@
     "0e6b54b7-af1e-4918-8224-6720703ec563": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-16T16:05:25-04:00",
       "skills": [
@@ -15330,7 +15330,7 @@
     "7be2e4ed-d0ba-4c23-b8da-b92cee3f07f1": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C#",
@@ -15417,7 +15417,7 @@
     "f1ef6d6c-618e-4935-8928-f02675833955": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-16T00:00:00.000Z",
       "skills": [
@@ -15446,7 +15446,7 @@
     "78bfe38c-e7ab-4387-af08-28aa2ecf4d6e": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-16T00:00:00.000Z",
       "skills": [
@@ -15738,7 +15738,7 @@
     "42ef3361-65d3-45bc-bb21-c1fe2908bf6c": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "skills": [
@@ -15761,7 +15761,7 @@
     "0fd4122e-ceb7-4f97-8f55-aaab32d000d7": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-04T06:03:52.099Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "skills": [],
@@ -15775,7 +15775,7 @@
     "e9b7e6e4-f5c7-447c-bd8d-3c9a764d5f44": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-04T06:03:52.099Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "skills": [],
@@ -15789,7 +15789,7 @@
     "f4082cd5-efa8-433b-a046-a2780c5286b5": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-04T06:03:52.099Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "skills": [],
@@ -15803,7 +15803,7 @@
     "5aa227fb-8db0-4113-81ec-a0441660db19": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "skills": [
@@ -15826,7 +15826,7 @@
     "58e8369f-2689-4d99-a38e-37e807ad938d": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-04T06:03:52.099Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "skills": [],
@@ -16058,7 +16058,7 @@
     "e106eaa4-9eac-44cc-9457-887140222d04": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "641f64cb-e677-4df1-af7f-bdd1c841f0cd": {
@@ -16157,19 +16157,19 @@
     "93ef662e-5551-44f1-b92f-7803ee8a3ea1": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "5eeb71a2-4362-490d-91b2-80bec3bb466d": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "50aa2666-a2a3-4da7-8099-d77ee703ebd6": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "f17e1a25-2872-42d0-90f6-3e3dbb14c8fa": {
@@ -16375,7 +16375,7 @@
     "09f40dda-2ded-4174-ba81-78b97c133f7e": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-18T00:00:00.000Z",
       "skills": [
@@ -16392,7 +16392,7 @@
     "1748ecb3-9afd-4e60-a8c1-84278fc38f37": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "02822068-8c62-4e46-a294-078ad3fb898f": {
@@ -16441,7 +16441,7 @@
     "73aba348-3766-42da-95f5-af2bf255384f": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C#",
@@ -16530,7 +16530,7 @@
     "e4639935-0247-4578-b4a3-814cab5c5c8e": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "0852a12d-b8e1-4765-bdb1-fe6f25d996b0": {
@@ -16788,7 +16788,7 @@
     "8f493b99-aa1d-4b44-8cc1-dc9fc9e2d5d9": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-21T11:18:04-04:00",
       "skills": [
@@ -16829,7 +16829,7 @@
     "125bd988-6772-4728-ae9c-d0c5bc2562d3": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-21T11:25:13-04:00",
       "skills": [
@@ -17000,7 +17000,7 @@
     "1c4c6e2a-b8f1-414c-ba29-d58ee1ce7dbe": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-21T00:00:00.000Z",
       "skills": [
@@ -17124,7 +17124,7 @@
     "5292f2d8-70e9-44a6-a50e-aea6724dfacd": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-12T00:00:00.000Z",
       "skills": [
@@ -17196,7 +17196,7 @@
     "6747a804-3d64-4369-a51e-9309bb720e0c": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "282eda76-ee60-4f60-abe4-e0db76ac4fdb": {
@@ -17212,7 +17212,7 @@
     "e031f965-19f0-4d28-88d1-410fbff55e45": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Spring"
@@ -17232,7 +17232,7 @@
     "a1e3987b-628f-4fd3-9b89-8bb755a6bd26": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Spring"
@@ -17242,7 +17242,7 @@
     "40393754-cddc-4a20-94cc-f5d3c6f488bf": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Spring"
@@ -17252,7 +17252,7 @@
     "74cf1c10-8e9a-4066-a47c-024ca7ecbf4b": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "25230324-75c3-45fd-95c9-96e3284c06d4": {
@@ -17282,13 +17282,13 @@
     "3a86764d-e47b-4475-98c1-ec31081f9a2f": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "a3057bae-dd6b-423a-aa65-19b37fac301b": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T00:00:00.000Z",
       "skills": [
@@ -17416,7 +17416,7 @@
     "6a018490-0c94-49df-9ad0-bfecd8fdad21": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-22T00:00:00.000Z",
       "skills": [
@@ -17439,7 +17439,7 @@
     "fff73d24-2557-417b-a791-58567415f245": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Python"
@@ -17454,7 +17454,7 @@
     "0315cabd-eed9-4fb0-bf72-2770478f6bb9": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Full-Stack Development",
@@ -17560,8 +17560,8 @@
     },
     "dc550f37-4505-4a97-8560-642d1cc2f0e9": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 100,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "strikes": 101,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "72dd6a3e-e7a0-4cb6-93f2-9b3920b456a6": {
@@ -17589,7 +17589,7 @@
     "839325fc-57c6-4d5b-9db5-a2273ec9dd48": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-29T00:00:00.000Z",
       "skills": [
@@ -17633,7 +17633,7 @@
     "ffb0610a-df2f-4c18-a196-a2ef4d949d7b": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-22T18:16:56-04:00",
       "skills": [
@@ -17653,7 +17653,7 @@
     "5b597914-e71c-489d-b3ad-77a3e48f7c58": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-22T18:18:40-04:00",
       "skills": [
@@ -17698,7 +17698,7 @@
     "9eba7545-19f8-461d-b313-6a523b17e88c": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-22T00:00:00.000Z",
       "skills": [
@@ -17802,7 +17802,7 @@
     "e8a23788-bd3c-493a-9ede-be9de1645c55": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-28T00:00:00.000Z",
       "skills": [
@@ -17882,7 +17882,7 @@
     "28daad08-c435-4e31-b8a0-c2adbbd8eba6": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "f9aac5d5-d4f2-4936-93fc-e6a1cf4306f6": {
@@ -17910,7 +17910,7 @@
     "c2cbd149-9096-42ca-b785-b8ab7d96e3cf": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-21T22:32:47.416+00:00",
       "skills": [
@@ -17931,8 +17931,8 @@
     },
     "9e770238-e3ff-491f-baa6-08a85518e661": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 89,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "strikes": 90,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "d43122fd-1543-4f5c-b6de-ecd3c255484d": {
@@ -18101,13 +18101,13 @@
     "60174f6d-1cb4-49c4-93db-3cf3d5dc9382": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "4f3bddc6-477e-4fa8-aafc-7c37712f3a05": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-03T11:50:19.399Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-24T15:27:52-04:00",
       "skills": [
@@ -18125,7 +18125,7 @@
     "2b447abf-4a95-4c48-a2bb-10f5a7870bdc": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-24T15:27:16-04:00",
       "skills": [
@@ -18143,7 +18143,7 @@
     "b5c59c2b-f39f-4ece-91bc-4b3f46d293b3": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-24T15:26:29-04:00",
       "skills": [
@@ -18177,7 +18177,7 @@
     "dffa3f5f-d496-43e5-90e0-105b940da03c": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-29T00:00:00.000Z",
       "skills": [
@@ -18279,7 +18279,7 @@
     "63f4d5fe-1a58-43dc-8299-1dcb69b5b2f6": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "544076ef-ca22-485c-8793-4770c7d30023": {
@@ -18309,7 +18309,7 @@
     "6aab9099-e210-40cb-8088-d27b253dd0a7": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-24T00:00:00.000Z",
       "skills": [
@@ -18343,7 +18343,7 @@
     "2447c030-f0b3-45ba-8dd4-df6ca2b82259": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-24T00:00:00.000Z",
       "skills": [
@@ -18473,7 +18473,7 @@
     "140fab22-0b1d-498c-a250-8373856250d9": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-24T00:00:00.000Z",
       "skills": [
@@ -18612,7 +18612,7 @@
     "d314f5f4-0dfc-4dcd-9b4a-b27f1694d1b9": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-25T07:18:00-04:00",
       "skills": [
@@ -18730,8 +18730,8 @@
     },
     "fec9533c-b5cc-4a22-b148-01e36f9516d4": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 64,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 65,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed",
       "publishedAt": "2026-09-25T17:28:56.724Z"
     },
@@ -18774,8 +18774,8 @@
     },
     "71018f38-602e-4001-9e45-698d20f81b5f": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
-      "strikes": 11,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 12,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed",
       "skills": [
         "SQL",
@@ -19019,7 +19019,7 @@
     "cf5aad4b-cc25-4bd4-92c7-0ac99a58245e": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "6db9023a-15b9-4dfa-a544-4779d19c4277": {
@@ -19063,7 +19063,7 @@
     "ec241207-37cb-48f4-aa65-cf19d960f7a2": {
       "firstSeenAt": "2026-09-26T08:58:23.824Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-26T02:56:35.425+00:00",
       "skills": [
@@ -19114,7 +19114,7 @@
     "079b70ee-8105-46b4-9163-319c8610f157": {
       "firstSeenAt": "2026-09-26T23:40:20.297Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-14T00:00:00.000Z",
       "skills": [
@@ -19467,7 +19467,7 @@
     "949d51a9-718b-4bfe-8a44-2735fc2a1a8a": {
       "firstSeenAt": "2026-09-27T10:49:46.456Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-08-31T15:24:19-04:00",
       "skills": [
@@ -19497,7 +19497,7 @@
     "a35fbd54-2c09-4c0e-8677-4b9065708400": {
       "firstSeenAt": "2026-09-27T10:49:46.456Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C",
@@ -19519,7 +19519,7 @@
     "3b02c249-20be-43f2-8ef1-e09f6b887db6": {
       "firstSeenAt": "2026-09-27T10:49:46.456Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C",
@@ -19564,7 +19564,7 @@
     "ac297577-f4f9-4b73-ab38-00c094342140": {
       "firstSeenAt": "2026-09-27T10:49:46.456Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-02T00:00:00.000Z",
       "skills": [
@@ -19692,7 +19692,7 @@
     "0be76f75-bb28-4d12-b0f5-9d0455bc825b": {
       "firstSeenAt": "2026-09-27T10:49:46.456Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-04T00:00:00.000Z",
       "skills": [
@@ -19953,7 +19953,7 @@
     "e30c1cc5-e220-4fd3-acc3-db8af1dcd0f5": {
       "firstSeenAt": "2026-09-27T10:49:46.456Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Python",
@@ -19990,7 +19990,7 @@
     "22c7894f-b45d-4a2c-acf9-6b149c73474e": {
       "firstSeenAt": "2026-09-27T10:49:46.456Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "skills": [
@@ -20038,13 +20038,13 @@
     "2f8b3696-a0e4-4b49-ae6a-ab6bbe7b640d": {
       "firstSeenAt": "2026-09-27T10:49:46.456Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "418c7dd2-b4c0-46c0-b387-96395ae563ea": {
       "firstSeenAt": "2026-09-27T10:49:46.456Z",
-      "strikes": 90,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "strikes": 91,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "f3d05ac2-889f-41af-8897-4ebab63cc29b": {
@@ -20086,8 +20086,25 @@
     "865a11a8-4b8f-4167-99a1-2b819a80bdf2": {
       "firstSeenAt": "2026-09-27T10:49:46.456Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
-      "lastStatus": "open"
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "open",
+      "skills": [
+        "Python",
+        "pytest",
+        "Robotics",
+        "CI/CD",
+        "Cryptography",
+        "Data Analysis",
+        "Embedded Systems",
+        "Security",
+        "Networking"
+      ],
+      "softSkills": [
+        "Communication",
+        "Mentorship",
+        "Collaboration"
+      ],
+      "skillsVersion": 2
     },
     "dcfc9399-37e0-42cc-965a-fd425dfbb1ce": {
       "firstSeenAt": "2026-09-27T10:49:46.456Z",
@@ -20098,7 +20115,7 @@
     "ef2297ca-14a3-41d1-b09c-4297b662e9f6": {
       "firstSeenAt": "2026-09-27T10:49:46.456Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-25T00:00:00.000Z",
       "skills": [
@@ -20119,7 +20136,7 @@
     "2d77d594-bd99-46dd-bb12-5e46c01f41e8": {
       "firstSeenAt": "2026-09-27T10:49:46.456Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-25T00:00:00.000Z",
       "skills": [
@@ -20235,7 +20252,7 @@
     "d27ce4c9-b5bf-4de0-a7f5-2e540532f643": {
       "firstSeenAt": "2026-09-29T22:25:28.536Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-29T00:00:00.000Z",
       "skills": [
@@ -20407,9 +20424,9 @@
     "02f8a929-c160-48c2-818b-cebd23779a18": {
       "firstSeenAt": "2026-09-29T22:25:28.536Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
-      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
       "skills": [
         "JavaScript",
         "Java",
@@ -20455,7 +20472,7 @@
     "68f77e24-7325-4a04-9e6f-048e16a551a1": {
       "firstSeenAt": "2026-09-30T05:44:23.138Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-19T00:00:00.000Z",
       "skills": [],
@@ -20584,13 +20601,13 @@
     "5866904c-1ee5-4973-8ca1-2c57ecb0569f": {
       "firstSeenAt": "2026-09-30T05:44:23.138Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "282a057f-48f4-4133-a52c-2261299e04a8": {
       "firstSeenAt": "2026-09-30T05:44:23.138Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-29T10:39:00-04:00",
       "skills": [
@@ -20622,7 +20639,7 @@
     "0150e350-a32f-4473-a4ee-93b1e1b1ea7e": {
       "firstSeenAt": "2026-09-30T05:44:23.138Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "CSS",
@@ -20657,7 +20674,7 @@
     "efff5c18-233b-49dd-a516-5c36f19636aa": {
       "firstSeenAt": "2026-09-30T05:44:23.138Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C#",
@@ -20750,7 +20767,7 @@
     "4bc949a8-4e60-4c6b-90c8-fb7077b8a2b2": {
       "firstSeenAt": "2026-09-30T05:44:23.138Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Azure",
@@ -20811,7 +20828,7 @@
     "4cfc6f1c-ae9e-447d-8980-a90e98153e86": {
       "firstSeenAt": "2026-09-30T05:44:23.138Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "78c03ab4-f50a-445d-9802-fb785330b50f": {
@@ -21120,7 +21137,7 @@
     "7ad6c160-b084-4ec2-9be1-3617d01137d1": {
       "firstSeenAt": "2026-10-01T00:37:53.906Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C#",
@@ -21242,7 +21259,7 @@
     "2b8a623c-d139-413c-aff2-d9afce6a38e4": {
       "firstSeenAt": "2026-10-01T00:37:53.906Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T00:00:00.000Z",
       "skills": [],
@@ -21272,7 +21289,7 @@
     "0bb25d49-891c-45e8-9504-1d5c8d923aa3": {
       "firstSeenAt": "2026-10-01T10:18:20.429Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "aee0379e-2573-4cfb-b9b3-e212ca032e4a": {
@@ -21284,7 +21301,7 @@
     "bb3c5751-35bc-4618-83e8-1af1b888f533": {
       "firstSeenAt": "2026-10-01T10:18:20.429Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Compilers",
@@ -21296,7 +21313,7 @@
     "48975da5-2bb2-4457-8702-de4898cd805e": {
       "firstSeenAt": "2026-10-01T10:18:20.429Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Java",
@@ -21361,7 +21378,7 @@
     "8b74bc73-21bb-499c-a67a-d34845246a91": {
       "firstSeenAt": "2026-10-01T18:28:59.423Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "c6dd05de-594d-4fa3-8da1-c646ae0eca31": {
@@ -21432,8 +21449,8 @@
     },
     "2f4d691e-c368-4b0b-a6ca-641b6441ab48": {
       "firstSeenAt": "2026-10-02T00:56:04.238Z",
-      "strikes": 6,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 7,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed",
       "skills": [
         "R",
@@ -21598,7 +21615,7 @@
     "8ec2033a-ce88-4b22-8928-f0bcfa00049a": {
       "firstSeenAt": "2026-10-02T00:56:04.238Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-01T00:00:00.000Z",
       "skills": [],
@@ -21632,7 +21649,7 @@
     "892a9689-16bc-4820-974a-056fab823d5f": {
       "firstSeenAt": "2026-10-02T00:56:04.238Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-01T12:43:17-04:00",
       "skills": [
@@ -21702,7 +21719,7 @@
     "33ae8cab-9f3b-486e-9f60-5c43fd1f1e48": {
       "firstSeenAt": "2026-10-02T00:56:04.238Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C#",
@@ -21725,7 +21742,7 @@
     "d5599c90-9e9c-4cad-bf65-0e4ab06bf6f0": {
       "firstSeenAt": "2026-10-02T00:56:04.238Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-01T16:00:18-04:00",
       "skills": [
@@ -21952,7 +21969,7 @@
     "4fda6f3c-c073-469a-90b9-cb1d79c5f369": {
       "firstSeenAt": "2026-10-02T00:56:04.238Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified",
       "skills": [
         "C++",
@@ -22203,7 +22220,7 @@
     "96268a8b-5041-4571-913d-7a04ae9c4c50": {
       "firstSeenAt": "2026-10-02T09:55:33.827Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "665e2669-0a2a-4e07-9859-73f9f3e9b83d": {
@@ -22387,7 +22404,7 @@
     "938e1389-c62c-4512-aecc-c83536e5bea9": {
       "firstSeenAt": "2026-10-03T05:29:17.980Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-20T00:00:00.000Z",
       "skills": [
@@ -22431,7 +22448,7 @@
     "956eedbe-799d-459b-8556-9184a7f7f706": {
       "firstSeenAt": "2026-10-03T05:29:17.980Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "6e2de8e6-b0dd-45d3-915d-9fc952cc4a7f": {
@@ -22574,7 +22591,7 @@
     "b761fed7-c990-47a1-884c-8d67dabdcc04": {
       "firstSeenAt": "2026-10-03T05:29:17.980Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-09T00:00:00.000Z",
       "skills": [
@@ -22838,7 +22855,7 @@
     "a3265bb9-bf8d-4ab6-b4ed-809f2362a4ed": {
       "firstSeenAt": "2026-10-04T12:34:13.641Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "d6145bb9-e227-4e58-93d0-88787216d111": {
@@ -22914,7 +22931,7 @@
     "d1133c90-ab4b-4fc5-a598-143f98f88793": {
       "firstSeenAt": "2026-10-04T18:41:40.744Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "9e0dc3ab-9d79-4ad2-8969-6a079b606b79": {
@@ -23078,7 +23095,7 @@
     "726360c4-caf8-48cc-bc62-9dc9ba9eaca4": {
       "firstSeenAt": "2026-10-05T15:00:11.541Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "JavaScript",
@@ -23101,7 +23118,7 @@
     "5225e58c-5696-4982-94a4-d20dfef3c850": {
       "firstSeenAt": "2026-10-05T15:00:11.541Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "JavaScript",
@@ -23303,7 +23320,7 @@
     "b5be1176-4a77-4aa0-a229-cb9959886d0a": {
       "firstSeenAt": "2026-10-06T06:33:48.364Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-05T00:00:00.000Z",
       "skills": [
@@ -23362,7 +23379,7 @@
     "e01d674b-7369-4b64-8785-fba7bb59da13": {
       "firstSeenAt": "2026-10-06T06:33:48.364Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-05T00:00:00.000Z",
       "skills": [
@@ -23440,7 +23457,7 @@
     "60cceb67-73c6-4b3b-9464-f6f276a9ad2c": {
       "firstSeenAt": "2026-10-06T06:33:48.364Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-14T19:36:35.405+00:00",
       "skills": [
@@ -23564,8 +23581,8 @@
     },
     "aa739d1b-e0d2-4ce1-bb8a-be88fe2687f1": {
       "firstSeenAt": "2026-10-06T06:33:48.364Z",
-      "strikes": 66,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 67,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "725c24d1-eff4-4761-8075-200afd2345f7": {
@@ -23724,13 +23741,13 @@
     "7136a7a6-b9b6-47d9-be27-85bb3d354b11": {
       "firstSeenAt": "2026-10-06T06:33:48.364Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "1e0edc08-872a-46c3-b0b1-5a8eba101fe2": {
       "firstSeenAt": "2026-10-06T06:33:48.364Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-05T20:36:17-04:00",
       "skills": [
@@ -23759,7 +23776,7 @@
     "ecea0a0c-194c-4478-8605-93cac5731cb2": {
       "firstSeenAt": "2026-10-06T06:33:48.364Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-05T19:05:49-04:00",
       "skills": [
@@ -23933,7 +23950,7 @@
     "1b3efb3c-9e7e-483a-a16d-28001b164d2f": {
       "firstSeenAt": "2026-10-06T16:02:45.351Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-11T00:00:00.000Z",
       "skills": [
@@ -24043,7 +24060,7 @@
     "9c73b8be-e8be-4a91-9db0-df9eb032917a": {
       "firstSeenAt": "2026-10-06T16:02:45.351Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-08T09:38:03-04:00",
       "skills": [
@@ -24083,7 +24100,7 @@
     "c986d084-22ce-42b2-8117-a1fdd3db77a4": {
       "firstSeenAt": "2026-10-06T16:02:45.351Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-23T00:00:00.000Z",
       "skills": [
@@ -24142,7 +24159,7 @@
     "424c2b21-ac5b-49ff-9c33-24fd7860f772": {
       "firstSeenAt": "2026-10-06T16:02:45.351Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-08-28T00:00:00.000Z",
       "skills": [
@@ -24261,7 +24278,7 @@
     "32a927aa-3bb5-4165-a071-577c818b9b67": {
       "firstSeenAt": "2026-10-06T16:02:45.351Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-05T00:00:00.000Z",
       "skills": [
@@ -24281,7 +24298,7 @@
     "532045a4-58bc-4fef-8105-cae7f1bdcccc": {
       "firstSeenAt": "2026-10-06T16:02:45.351Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "CSS",
@@ -24294,13 +24311,13 @@
     "97fe6a41-dd50-4193-84c4-3bb8640b1710": {
       "firstSeenAt": "2026-10-06T16:02:45.351Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "62d4ae7a-8cfd-487d-b184-59ecd3952a7d": {
       "firstSeenAt": "2026-10-06T16:02:45.351Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "ca81a621-2f36-49ca-a53c-8b2ade452ded": {
@@ -24329,7 +24346,7 @@
     "d0cef856-98c0-4742-86ea-e16297da53fb": {
       "firstSeenAt": "2026-10-06T16:02:45.351Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-06T00:00:00.000Z",
       "skills": [
@@ -24377,7 +24394,7 @@
     "04082f6d-c15d-4431-bf6a-5ac5f3fd7dc8": {
       "firstSeenAt": "2026-10-06T16:02:45.351Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-06T00:00:00.000Z",
       "skills": [
@@ -24500,7 +24517,7 @@
     "32e9a5dd-56e3-416f-88e2-951668084aba": {
       "firstSeenAt": "2026-10-07T06:12:14.790Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-06T15:15:02.512+00:00",
       "skills": [
@@ -24636,7 +24653,7 @@
     "3ec7973e-c745-483e-915e-feb7d89804d2": {
       "firstSeenAt": "2026-10-07T06:12:14.790Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-06T00:00:00.000Z",
       "skills": [
@@ -24688,7 +24705,7 @@
     "913185e4-c0b8-46bb-add7-d4de9eb77339": {
       "firstSeenAt": "2026-10-07T06:12:14.790Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "e0c88ae2-81b7-41b3-9fde-093c76046d48": {
@@ -24954,7 +24971,7 @@
     "9b4e37d9-a98c-45f4-bc30-a54925f62d8b": {
       "firstSeenAt": "2026-10-07T06:12:14.790Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "1fd32548-9b70-43de-815b-740a8ac20359": {
@@ -25014,13 +25031,13 @@
     "b8b19e5d-20b7-445f-8168-507858a3452c": {
       "firstSeenAt": "2026-10-07T06:12:14.790Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "6511499a-c146-43e7-82d8-17e2afce0bdc": {
       "firstSeenAt": "2026-10-07T06:12:14.790Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "d4dd7283-a6c1-4f08-a631-ba840bf2b7ef": {
@@ -25172,7 +25189,7 @@
     "484795df-9f5d-4137-aada-8bc8059146a3": {
       "firstSeenAt": "2026-10-07T13:38:10.390Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-07T03:13:47-04:00",
       "skills": [
@@ -25415,7 +25432,7 @@
     "80e937f9-b321-42fa-98f7-8b8e97d42209": {
       "firstSeenAt": "2026-10-08T01:05:46.410Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-07T00:00:00.000Z",
       "skills": [
@@ -25461,8 +25478,8 @@
     },
     "a8655c72-8299-4087-b0ad-d93807cef979": {
       "firstSeenAt": "2026-10-08T01:05:46.410Z",
-      "strikes": 60,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 61,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "ed7ea0ce-4fb7-47ab-b4d5-bb2a0657868a": {
@@ -25486,7 +25503,7 @@
     "fa734bf9-e27f-4e85-97fb-6e126f1ec998": {
       "firstSeenAt": "2026-10-08T01:05:46.410Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "CSS",
@@ -25546,7 +25563,7 @@
     "8ef9bbf0-cd69-40e5-bdef-de0c789d2df4": {
       "firstSeenAt": "2026-10-08T01:05:46.410Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-07T21:27:31.105+00:00",
       "skills": [
@@ -25788,7 +25805,7 @@
     "38c7776b-a885-4f1e-af66-2816ed57ba66": {
       "firstSeenAt": "2026-10-08T18:55:17.284Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-08T00:00:00.000Z",
       "skills": [
@@ -25804,7 +25821,7 @@
     "92b36766-febe-474d-941e-0bf16bc2ecc0": {
       "firstSeenAt": "2026-10-08T18:55:17.284Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-08T00:00:00.000Z",
       "skills": [
@@ -25822,7 +25839,7 @@
     "64ffe791-24fc-4b7a-b06b-90a8bc63b978": {
       "firstSeenAt": "2026-10-08T18:55:17.284Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-08T00:00:00.000Z",
       "skills": [],
@@ -25855,7 +25872,7 @@
     "61d630c7-bc66-4344-a5c4-772ddef31c4e": {
       "firstSeenAt": "2026-10-09T01:17:09.306Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "f101c242-c477-4a1d-9f11-a14d7c50d8e0": {
@@ -25903,15 +25920,15 @@
     },
     "e9431d48-77fa-4f21-aada-d15b27d9738c": {
       "firstSeenAt": "2026-10-09T01:17:09.306Z",
-      "strikes": 36,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "strikes": 37,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed",
       "publishedAt": "2026-10-08T15:52:42.988Z"
     },
     "1f80afa8-c775-4da7-b930-bcb71e621fad": {
       "firstSeenAt": "2026-10-09T01:17:09.306Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T00:00:00.000Z",
       "skills": [],
@@ -25995,7 +26012,7 @@
     "b84cde68-8811-482e-ad0d-fb3108bad985": {
       "firstSeenAt": "2026-10-09T01:17:09.306Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-08T17:34:51.757+00:00",
       "skills": [
@@ -26056,7 +26073,7 @@
     "bb8f20e6-5a47-4e46-96b8-2a5c1e09d831": {
       "firstSeenAt": "2026-10-09T01:17:09.306Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-08T15:20:12.949Z",
       "skills": [
@@ -26182,8 +26199,8 @@
     },
     "e149e65e-265d-4273-bc2c-9fe3740f6c41": {
       "firstSeenAt": "2026-10-09T01:17:09.306Z",
-      "strikes": 57,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 58,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "9336555d-472f-4804-b5f7-a1e52e004ac6": {
@@ -26207,8 +26224,8 @@
     },
     "273f4531-60f3-4aae-aca4-22de666d644e": {
       "firstSeenAt": "2026-10-09T01:17:09.306Z",
-      "strikes": 57,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 58,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "b058e4f4-66d1-4259-8983-1c888392410d": {
@@ -26242,7 +26259,7 @@
     "69984bf9-c983-408b-befc-bcf50f6c79d5": {
       "firstSeenAt": "2026-10-09T01:17:09.306Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "5816604a-fdad-469c-b01d-7ee4621ca78e": {
@@ -26326,7 +26343,7 @@
     "7f8ded4e-5bcc-463e-baf8-7a13f3369116": {
       "firstSeenAt": "2026-10-09T10:44:44.132Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-09T00:00:00.000Z",
       "skills": [
@@ -26422,7 +26439,7 @@
     "1564dff4-1455-4c39-8484-e1940718b5df": {
       "firstSeenAt": "2026-10-09T18:26:03.403Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "08534f02-cdda-4163-8227-8adc00591296": {
@@ -26462,7 +26479,7 @@
     "21f70fe2-fdef-49f7-a4f9-b5dd331e3acd": {
       "firstSeenAt": "2026-10-09T18:26:03.403Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-09T00:00:00.000Z",
       "skills": [
@@ -26501,7 +26518,7 @@
     "c416ad28-d7e6-4fca-98ee-f4a2119e49e5": {
       "firstSeenAt": "2026-10-10T01:01:22.837Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-09T00:00:00.000Z",
       "skills": [
@@ -26561,7 +26578,7 @@
     "4dacd1f1-1a63-461f-9329-95162f1c14bd": {
       "firstSeenAt": "2026-10-10T01:01:22.837Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "65d5f968-db70-4ced-968a-605604c841f5": {
@@ -26622,7 +26639,7 @@
     "9a42eb0e-d390-47e7-85fa-9d1494c41240": {
       "firstSeenAt": "2026-10-10T01:01:22.837Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-09T00:00:00.000Z",
       "skills": [
@@ -26646,7 +26663,7 @@
     "4f556f66-a814-45e5-a344-52b0bab669c0": {
       "firstSeenAt": "2026-10-10T01:01:22.837Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-09T00:00:00.000Z",
       "skills": [
@@ -26667,7 +26684,7 @@
     "94c00b41-c5d0-4d08-bb13-68af273a24c1": {
       "firstSeenAt": "2026-10-10T01:01:22.837Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-09T13:43:07-04:00",
       "skills": [
@@ -26687,7 +26704,7 @@
     "d5b1be21-ea3d-442a-ac92-5df1ec91238c": {
       "firstSeenAt": "2026-10-10T01:01:22.837Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C++",
@@ -26710,7 +26727,7 @@
     "bf0ea2ee-b924-45bc-bbd7-c84d4eba7fd4": {
       "firstSeenAt": "2026-10-10T01:01:22.837Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C++",
@@ -26838,7 +26855,7 @@
     "7c5bf4c8-4460-4368-ae88-3abf181dd598": {
       "firstSeenAt": "2026-10-10T01:01:22.837Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [],
       "softSkills": [
@@ -26850,7 +26867,7 @@
     "2be561b9-160a-48ef-bd5b-6428e001f402": {
       "firstSeenAt": "2026-10-10T01:01:22.837Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-09T00:00:00.000Z",
       "skills": [
@@ -26872,7 +26889,7 @@
     "978157d4-2173-4f60-a1c7-5b7e4bab53ea": {
       "firstSeenAt": "2026-10-10T09:59:52.727Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-09-18T18:34:40.019Z",
       "skills": [
@@ -26886,7 +26903,7 @@
     "94a30c63-9e16-4706-b9bb-9713c9b0afd0": {
       "firstSeenAt": "2026-10-10T09:59:52.727Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-13T00:00:00.000Z",
       "skills": [
@@ -26934,7 +26951,7 @@
     "0a37326a-6eb6-4459-8249-044ccfac8600": {
       "firstSeenAt": "2026-10-10T09:59:52.727Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-09T00:00:00.000Z",
       "skills": [
@@ -26964,7 +26981,7 @@
     "2ab54297-543e-4470-b71e-2e95b53cd687": {
       "firstSeenAt": "2026-10-10T09:59:52.727Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-09T00:00:00.000Z",
       "skills": [
@@ -26988,7 +27005,7 @@
     "6f1a27e9-3515-4a43-a644-80dbddacc4bb": {
       "firstSeenAt": "2026-10-10T09:59:52.727Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-10T00:00:00.000Z",
       "skills": [
@@ -27032,7 +27049,7 @@
     "8c0c58e2-09a5-4405-af40-3b87b72fd72f": {
       "firstSeenAt": "2026-10-12T11:06:29.104Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-12T00:00:00.000Z",
       "skills": [
@@ -27052,7 +27069,7 @@
     "be3d3958-ecd3-4487-834d-28d5529d33ed": {
       "firstSeenAt": "2026-10-12T11:06:29.104Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-12T00:00:00.000Z",
       "skills": [
@@ -27140,8 +27157,8 @@
     },
     "e5ebe73e-fdc6-49c8-b94f-5e6b5c176831": {
       "firstSeenAt": "2026-10-12T21:19:39.894Z",
-      "strikes": 30,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "strikes": 31,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed",
       "publishedAt": "2026-10-12T11:26:36.430Z"
     },
@@ -27176,7 +27193,7 @@
     "3c4fd433-d0f1-4616-9949-70e4b7c5c452": {
       "firstSeenAt": "2026-10-13T02:38:16.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "4dc69fa1-8510-4bd9-b77b-9a4d8f07f1f3": {
@@ -27320,7 +27337,7 @@
     "728bca38-c0a6-4b60-baa5-ecc12a0cb932": {
       "firstSeenAt": "2026-10-13T02:38:16.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T00:00:00.000Z",
       "skills": [
@@ -27341,7 +27358,7 @@
     "35a95991-96d0-490a-a3c5-6a80496b8aa1": {
       "firstSeenAt": "2026-10-13T02:38:16.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T00:00:00.000Z",
       "skills": [
@@ -27423,7 +27440,7 @@
     "00f9cd20-5142-49ea-b386-7be84106d15f": {
       "firstSeenAt": "2026-10-13T02:38:16.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-12T00:00:00.000Z",
       "skills": [],
@@ -27582,7 +27599,7 @@
     "12d9afc7-b167-4592-b10d-36bd9702bb6d": {
       "firstSeenAt": "2026-10-13T02:38:16.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T00:00:00.000Z",
       "skills": [
@@ -27626,7 +27643,7 @@
     "9c64ea05-ef86-4f4e-a20c-74a25b071a10": {
       "firstSeenAt": "2026-10-13T02:38:16.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Python",
@@ -27759,7 +27776,7 @@
     "c8f85910-6335-4456-abbb-1d0ae23c98bb": {
       "firstSeenAt": "2026-10-13T02:38:16.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T00:00:00.000Z",
       "skills": [
@@ -27824,7 +27841,7 @@
     "03a462fa-9718-48c0-a23a-12c1003d5c8d": {
       "firstSeenAt": "2026-10-13T02:38:16.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-12T00:00:00.000Z",
       "skills": [
@@ -28113,7 +28130,7 @@
     "27a95130-d285-4542-8d8e-e60cabf4b119": {
       "firstSeenAt": "2026-10-14T00:23:31.348Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-13T00:00:00.000Z",
       "skills": [
@@ -28137,7 +28154,7 @@
     "ad4f396b-0091-4bba-a477-5eeef65c1b39": {
       "firstSeenAt": "2026-10-14T00:23:31.348Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [],
       "softSkills": [
@@ -28149,7 +28166,7 @@
     "191ec10e-48aa-42a6-a296-acd2f1d46586": {
       "firstSeenAt": "2026-10-14T00:23:31.348Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [],
       "softSkills": [
@@ -28204,7 +28221,7 @@
     "b6d8ec76-80b9-4666-8292-eba8abebdca5": {
       "firstSeenAt": "2026-10-14T00:23:31.348Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-13T12:17:57-04:00",
       "skills": [
@@ -28225,7 +28242,7 @@
     "504555e2-06ee-4bcb-a0aa-e8c7d79b0652": {
       "firstSeenAt": "2026-10-14T00:23:31.348Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C#",
@@ -28244,8 +28261,8 @@
     },
     "fa621e40-4b60-4912-8246-670d0d5554a6": {
       "firstSeenAt": "2026-10-14T00:23:31.348Z",
-      "strikes": 14,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 15,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed",
       "skills": [
         "CSS",
@@ -28267,7 +28284,7 @@
     "ae3e214d-ad36-44cf-9706-a3988951b4d2": {
       "firstSeenAt": "2026-10-14T00:23:31.348Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Python"
@@ -28387,7 +28404,7 @@
     "cb062e22-3c1a-451f-a4b8-bcb8167ea270": {
       "firstSeenAt": "2026-10-14T00:23:31.348Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "19fbec6f-29ce-43ff-addf-6a88e1a8dd85": {
@@ -28524,7 +28541,7 @@
     "d30520b3-3e37-4964-8ec5-834602970ba5": {
       "firstSeenAt": "2026-10-14T08:52:17.673Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-09T22:03:52.467+00:00",
       "skills": [
@@ -28560,7 +28577,7 @@
     "000e1d44-e8bb-4c3a-82f2-c413e25e95cc": {
       "firstSeenAt": "2026-10-14T08:52:17.673Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-13T00:00:00.000Z",
       "skills": [
@@ -28601,7 +28618,7 @@
     "6888a509-6e70-41ad-ad5f-a86b6d1be5bc": {
       "firstSeenAt": "2026-10-14T14:34:47.937Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-13T00:00:00.000Z",
       "skills": [
@@ -28688,7 +28705,7 @@
     "08348ecb-6917-4687-aa67-6d71cdd2be04": {
       "firstSeenAt": "2026-10-14T19:30:17.115Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-14T00:00:00.000Z",
       "skills": [
@@ -28704,7 +28721,7 @@
     "f61cb2b1-1f8c-4df4-b629-ac92ac784f82": {
       "firstSeenAt": "2026-10-14T19:30:17.115Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-14T00:00:00.000Z",
       "skills": [
@@ -28765,7 +28782,7 @@
     "81f6a6a0-ca1b-4a27-aafa-49735204bc0e": {
       "firstSeenAt": "2026-10-14T23:58:54.675Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-14T00:00:00.000Z",
       "skills": [
@@ -28809,7 +28826,7 @@
     "112ac640-41ea-4a8d-9297-a0fab277b9a9": {
       "firstSeenAt": "2026-10-14T23:58:54.675Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-14T00:00:00.000Z",
       "skills": [
@@ -28932,7 +28949,7 @@
     "acf27f9f-528e-464f-b056-c55c4943f5d9": {
       "firstSeenAt": "2026-10-14T23:58:54.675Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "c2cb4e52-0a06-45a3-beff-da2436315c4d": {
@@ -29024,7 +29041,7 @@
     "d58e6fdc-c150-4d88-bff1-16000fd3a8c1": {
       "firstSeenAt": "2026-10-14T23:58:54.675Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-19T00:00:00.000Z",
       "skills": [
@@ -29166,7 +29183,7 @@
     "c74ff3ad-83c4-4bac-b33a-85c098bb91be": {
       "firstSeenAt": "2026-10-15T11:45:01.274Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-14T00:00:00.000Z",
       "skills": [
@@ -29213,7 +29230,7 @@
     "5083f980-f378-47f2-9737-61eb9fbeeac0": {
       "firstSeenAt": "2026-10-15T11:45:01.274Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-14T00:00:00.000Z",
       "skills": [
@@ -29233,7 +29250,7 @@
     "9017884c-ac21-4042-9b87-f21cc598295d": {
       "firstSeenAt": "2026-10-15T17:11:52.279Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T00:00:00.000Z",
       "skills": [
@@ -29252,7 +29269,7 @@
     "3b537031-55e0-438c-9aee-888baa79d6cd": {
       "firstSeenAt": "2026-10-15T17:11:52.279Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-15T00:00:00.000Z",
       "skills": [
@@ -29276,7 +29293,7 @@
     "7b06c1c0-8cf5-43d9-bcb0-391457d8ffbb": {
       "firstSeenAt": "2026-10-15T17:11:52.279Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-15T00:00:00.000Z",
       "skills": [
@@ -29389,7 +29406,7 @@
     "95542b2a-559f-4043-9abf-11784ddc524b": {
       "firstSeenAt": "2026-10-16T04:44:19.204Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-15T20:00:11.009Z",
       "skills": [],
@@ -29439,7 +29456,7 @@
     "58133210-2067-49d2-85f6-9cbc957b9b44": {
       "firstSeenAt": "2026-10-16T04:44:19.204Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-15T18:02:45-04:00",
       "skills": [
@@ -29560,7 +29577,7 @@
     "f3fe5670-e9b7-400c-b35b-2d10dd196257": {
       "firstSeenAt": "2026-10-16T04:44:19.204Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-15T13:34:14-04:00",
       "skills": [
@@ -29606,7 +29623,7 @@
     "f4473dfb-1d23-48f0-8ea4-3bf930c7328d": {
       "firstSeenAt": "2026-10-16T04:44:19.204Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-15T00:00:00.000Z",
       "skills": [
@@ -29644,7 +29661,7 @@
     "55d8577a-649c-47a8-a60f-2fc353841220": {
       "firstSeenAt": "2026-10-16T04:44:19.204Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-15T00:00:00.000Z",
       "skills": [
@@ -29755,13 +29772,13 @@
     "666bef1d-25fc-49ac-aca6-45ccfc8c86ff": {
       "firstSeenAt": "2026-10-16T04:44:19.204Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "7ea8d45a-67d3-43f9-ba9e-9166c90992d9": {
       "firstSeenAt": "2026-10-16T11:39:10.814Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Python",
@@ -29781,7 +29798,7 @@
     "c2b83547-72d8-4dc5-8cc9-ea1825ebf4e6": {
       "firstSeenAt": "2026-10-16T11:39:10.814Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "unverified"
     },
     "1962fda2-9358-4d0b-a814-d0e55e225392": {
@@ -29907,7 +29924,7 @@
     "1fb0d7af-6c0c-47ef-bf48-32b9b9c876e6": {
       "firstSeenAt": "2026-10-17T04:41:57.233Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Python",
@@ -29930,7 +29947,7 @@
     "8e66e047-4b95-43bf-aece-a2b0196f0aa7": {
       "firstSeenAt": "2026-10-17T04:41:57.233Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-16T15:15:29.033Z",
       "skills": [],
@@ -30026,7 +30043,7 @@
     "31c27bf5-e121-4183-a1d6-b31c6f3ab7b5": {
       "firstSeenAt": "2026-10-17T04:41:57.233Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-16T21:09:45.720+00:00",
       "skills": [
@@ -30168,7 +30185,7 @@
     "6128a4f5-8798-47fb-a46b-e553d79e7c09": {
       "firstSeenAt": "2026-10-17T04:41:57.233Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "CSS",
@@ -30250,7 +30267,7 @@
     "5f8d1c66-3ed0-4764-950c-a542a30a1c58": {
       "firstSeenAt": "2026-10-17T04:41:57.233Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "0056240c-a4a3-48c5-8715-8b3ed04b1590": {
@@ -30296,7 +30313,7 @@
     "7aa1a15a-c14e-4ed7-bccb-cb92212f2636": {
       "firstSeenAt": "2026-10-17T04:41:57.233Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "5bfc436a-9656-4284-9854-0a7cfa20e018": {
@@ -30404,19 +30421,19 @@
     "b0fb54b5-eefe-4969-b998-22da93d6c774": {
       "firstSeenAt": "2026-10-17T10:58:21.522Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "ff723fb0-8021-476f-94d8-a14675f7883f": {
       "firstSeenAt": "2026-10-17T10:58:21.522Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "19c1720c-cfad-48e9-a226-cf3675ab78d2": {
       "firstSeenAt": "2026-10-17T23:13:15.360Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-17T00:00:00.000Z",
       "skills": [
@@ -30450,7 +30467,7 @@
     "61ce3c2a-84a7-4b1b-bed7-6ea767a7fa00": {
       "firstSeenAt": "2026-10-18T04:47:35.368Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-18T00:00:00.000Z",
       "skills": [],
@@ -30481,7 +30498,7 @@
     "09d295fd-d8bf-43be-b771-d4daf5e511fe": {
       "firstSeenAt": "2026-10-18T04:47:35.368Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-18T00:00:00.000Z",
       "skills": [
@@ -30515,7 +30532,7 @@
     "267a2fc2-4e05-4e4f-b0f4-000a8134452d": {
       "firstSeenAt": "2026-10-18T11:24:56.128Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-18T00:00:00.000Z",
       "skills": [
@@ -30597,7 +30614,7 @@
     "d0a36b27-0b6f-4956-9ecb-4952e191ed55": {
       "firstSeenAt": "2026-10-19T20:38:31.807Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T00:00:00.000Z",
       "skills": [
@@ -30655,7 +30672,7 @@
     "b6e92704-1818-41ae-8f08-0a3c6d9399ca": {
       "firstSeenAt": "2026-10-19T20:38:31.807Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-19T00:00:00.000Z",
       "skills": [
@@ -30731,7 +30748,7 @@
     "1a7232dc-f554-4d51-a14c-0119b05d8672": {
       "firstSeenAt": "2026-10-19T20:38:31.807Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-19T09:29:06-04:00",
       "skills": [
@@ -30748,19 +30765,19 @@
     "5fba0cfa-5526-41d4-8d2d-b6095c930c1f": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "8386bf0d-0263-46b7-951c-fa102b1c70d9": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "c87cc8c3-da35-4f50-9ee0-cc9cac12c4b0": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-19T00:00:00.000Z",
       "skills": [
@@ -30784,7 +30801,7 @@
     "c712a36c-58fe-455b-b7d1-354855f08c92": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Debugging",
@@ -30801,7 +30818,7 @@
     "5fa7b64c-0298-4e06-8759-38ea1ef1e552": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "SQL",
@@ -30819,14 +30836,14 @@
     "d7811a02-7fd5-4ed0-a32a-d9a4ec9a068f": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-19T00:00:00.000Z"
     },
     "dad793f0-93b4-42b3-b970-cbf577f07d52": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-19T00:00:00.000Z",
       "skills": [
@@ -30842,7 +30859,7 @@
     "75a57c7c-d53e-471f-ad32-b424227e9f4a": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-19T00:00:00.000Z",
       "skills": [
@@ -30858,19 +30875,19 @@
     "2016c8e0-5c76-4879-97e8-90fecbc6eb8f": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "44c023e1-517d-40b7-8441-9b2c99ca6b4d": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "8e36309e-1871-4c3f-81fb-4637169e02c5": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C#",
@@ -30889,7 +30906,7 @@
     "0e371048-09e7-4111-8768-bae91b1a2437": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-19T19:04:07.357+00:00",
       "skills": [
@@ -30913,7 +30930,7 @@
     "9e472e5e-45ed-46ff-833d-4b4506676f0f": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C++",
@@ -30931,7 +30948,7 @@
     "9c3549d6-12b9-488c-9b34-de7b9deb3d97": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C++",
@@ -30949,7 +30966,7 @@
     "0a7f7f6a-3e82-4b4f-aa8e-eade2c83a8b6": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "7b0c7936-f5ca-4813-a556-483b1e6edbf0": {
@@ -30976,7 +30993,7 @@
     "f6a2b87f-8d79-42e5-b672-1818e34256c5": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-19T21:00:07.107+00:00",
       "skills": [
@@ -30994,7 +31011,7 @@
     "e0945d4c-fd78-4677-981a-b7cf12cea361": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-19T12:58:37-04:00",
       "skills": [
@@ -31018,7 +31035,7 @@
     "55628d30-a337-40eb-9aa0-d4fe2dc1d4ff": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-19T21:01:19.796+00:00",
       "skills": [
@@ -31036,7 +31053,7 @@
     "674e587c-edc9-497e-b2f3-325b559527a2": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "CSS",
@@ -31055,7 +31072,7 @@
     "20688eaf-1a51-4f19-8b7d-bfafc2497702": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-20T00:00:00.000Z",
       "skills": [
@@ -31076,13 +31093,13 @@
     "13228689-c229-492e-9ba7-4142539075a9": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "8617ce4d-04fe-4f3d-ab6d-ea8c0dba1bea": {
       "firstSeenAt": "2026-10-20T00:27:30.943Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-19T16:56:50-04:00",
       "skills": [
@@ -31211,14 +31228,14 @@
     "807bcae2-3ba9-4165-9819-a41fe28c13c3": {
       "firstSeenAt": "2026-10-20T14:23:28.760Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-13T13:43:07.349Z"
     },
     "46965922-9d94-4b6d-9e87-ff3889d5d343": {
       "firstSeenAt": "2026-10-20T14:23:28.760Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-19T00:00:00.000Z",
       "skills": [
@@ -31242,7 +31259,7 @@
     "069f3f4c-adc9-4e2d-919c-045fd3bef6b6": {
       "firstSeenAt": "2026-10-20T14:23:28.760Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-20T00:00:00.000Z",
       "skills": [
@@ -31262,7 +31279,7 @@
     "10e3eb17-36c8-4cb3-b39a-45fdf27e0b4d": {
       "firstSeenAt": "2026-10-20T14:23:28.760Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-20T00:00:00.000Z",
       "skills": [
@@ -31282,7 +31299,7 @@
     "d6b959d0-3774-41d6-bc89-d62b84ca38bf": {
       "firstSeenAt": "2026-10-20T19:23:59.158Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-20T00:00:00.000Z",
       "skills": [
@@ -31349,7 +31366,7 @@
     "e1ea5b8d-6e80-475e-9760-7cf18814dbfb": {
       "firstSeenAt": "2026-10-20T19:23:59.158Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-20T00:00:00.000Z",
       "skills": [
@@ -31424,7 +31441,7 @@
     "269f1429-7b09-4c8c-958f-36696b091490": {
       "firstSeenAt": "2026-10-20T19:23:59.158Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-20T08:20:24-04:00",
       "skills": [
@@ -31466,9 +31483,9 @@
     "29207f00-5df5-4bb4-a7d8-729ce95d921d": {
       "firstSeenAt": "2026-10-20T23:58:37.115Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
-      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
       "skills": [
         "SQL",
         "C#",
@@ -31609,7 +31626,7 @@
     "15541ad0-6422-49de-b84d-968855e502c2": {
       "firstSeenAt": "2026-10-20T23:58:37.115Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "420b65ad-93a7-4bf4-a5b8-8ff3d0fc4f75": {
@@ -31651,7 +31668,7 @@
     "ea672c45-89c1-45e5-afb3-0a7061e3ea16": {
       "firstSeenAt": "2026-10-20T23:58:37.115Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-20T14:42:49-04:00",
       "skills": [
@@ -31671,7 +31688,7 @@
     "7f0b6226-d723-4097-a060-879f717c121d": {
       "firstSeenAt": "2026-10-20T23:58:37.115Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-20T14:42:23-04:00",
       "skills": [
@@ -31805,13 +31822,13 @@
     "44c5476b-29a9-42cd-8bd8-4691ff83f588": {
       "firstSeenAt": "2026-10-20T23:58:37.115Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "5635b14b-45dd-4bb0-925f-0231622eb338": {
       "firstSeenAt": "2026-10-21T05:01:59.598Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-20T16:54:42.275Z"
     },
@@ -31842,7 +31859,7 @@
     "c289fea9-67db-45d8-ab27-d9aa699b67cc": {
       "firstSeenAt": "2026-10-21T05:01:59.598Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-20T00:00:00.000Z",
       "skills": [
@@ -31860,7 +31877,7 @@
     "058f10b5-7e10-4926-bb72-004c74c2a665": {
       "firstSeenAt": "2026-10-21T05:01:59.598Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-20T00:00:00.000Z",
       "skills": [
@@ -31884,7 +31901,7 @@
     "75c1c665-cda7-40b3-8db3-ce25f1ddd6ea": {
       "firstSeenAt": "2026-10-21T05:01:59.598Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-20T00:00:00.000Z",
       "skills": [],
@@ -31898,7 +31915,7 @@
     "f8f882fd-ee8e-4b25-ae90-0f2a5746e3ed": {
       "firstSeenAt": "2026-10-21T05:01:59.598Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "3e95934a-d25a-49d5-af4b-1a2eeb4b3eef": {
@@ -31911,7 +31928,7 @@
     "6e49745f-bd43-4f9c-86b7-ac3cd8172873": {
       "firstSeenAt": "2026-10-21T12:04:12.434Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-20T00:00:00.000Z",
       "skills": [
@@ -31978,7 +31995,7 @@
     "870cc93e-557c-4662-95bf-2cf7b7e1fbb3": {
       "firstSeenAt": "2026-10-21T17:23:51.935Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-20T00:00:00.000Z",
       "skills": [
@@ -32002,7 +32019,7 @@
     "a31a7c17-501a-4eb8-a17b-39bf87ed4403": {
       "firstSeenAt": "2026-10-21T17:23:51.935Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-21T00:00:00.000Z",
       "skills": [
@@ -32296,7 +32313,7 @@
     "ad922fdd-2a0e-4ef9-94d9-5e1c54969683": {
       "firstSeenAt": "2026-10-22T05:04:25.416Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "Python",
@@ -32556,7 +32573,7 @@
     "f0c77c3d-ac7c-476b-b0dc-7d681b3ab21f": {
       "firstSeenAt": "2026-10-22T12:07:13.769Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "JavaScript"
@@ -32592,7 +32609,7 @@
     "e41fbb04-5d3a-4afb-bf00-859f48e0a2aa": {
       "firstSeenAt": "2026-10-22T12:07:13.769Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T00:00:00.000Z",
       "skills": [
@@ -32620,8 +32637,8 @@
     },
     "8c79b347-4be7-4551-8b17-0eee3a073dc5": {
       "firstSeenAt": "2026-10-22T17:21:22.402Z",
-      "strikes": 4,
-      "lastVerifiedAt": "2026-10-23T11:51:08.533Z",
+      "strikes": 5,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "closed"
     },
     "060c5b3e-72e6-4565-8196-5327e4baf243": {
@@ -32662,7 +32679,7 @@
     "e76fd68e-0dcf-4634-a0cb-8ecf5d2d5ec8": {
       "firstSeenAt": "2026-10-22T17:21:22.402Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-22T17:21:22.402Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-02T20:15:32.149Z",
       "skills": [],
@@ -32712,7 +32729,7 @@
     "fd543f97-1606-43cf-a204-aebdc7cddf32": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T00:00:00.000Z",
       "skills": [
@@ -32736,7 +32753,7 @@
     "1e7773d3-204e-4be0-84c6-7d80b5db80ff": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T00:00:00.000Z",
       "skills": [],
@@ -32750,7 +32767,7 @@
     "ba0364a9-1ac6-476c-bce0-118895d7a5ed": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T00:00:00.000Z",
       "skills": [
@@ -32816,7 +32833,7 @@
     "815329f1-cd74-499b-977c-33adb4f5150c": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T15:32:21-04:00",
       "skills": [],
@@ -32864,7 +32881,7 @@
     "c4f7b9a7-0136-490c-891e-ee3a84d6864c": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T15:32:29.239+00:00",
       "skills": [
@@ -32886,7 +32903,7 @@
     "379fb3aa-7732-4809-8b51-dac32b966e6c": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T18:43:46.841+00:00",
       "skills": [
@@ -32905,7 +32922,7 @@
     "28e22b29-32bb-4e01-8a30-19fea4fe8f28": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T15:36:02.416+00:00",
       "skills": [
@@ -32929,7 +32946,7 @@
     "1c5e8952-b8d8-438e-a4a2-0c43e815da28": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T15:32:00.089+00:00",
       "skills": [
@@ -32952,7 +32969,7 @@
     "a8540a76-75da-4ebe-9e00-0e8eefa3b9cf": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T15:20:51.182+00:00",
       "skills": [
@@ -33078,7 +33095,7 @@
     "42fe7b0a-b849-4383-a420-2ee613f89a3d": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T00:00:00.000Z",
       "skills": [
@@ -33100,7 +33117,7 @@
     "d1a66cfc-7c5a-48aa-a8a4-d6b7e8e0aac5": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T19:44:53.854+00:00",
       "skills": [
@@ -33237,7 +33254,7 @@
     "2ec65e14-bcd0-4e89-af40-02da2affff7e": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T21:00:38.551+00:00",
       "skills": [
@@ -33271,7 +33288,7 @@
     "ea863c93-964b-415e-ac0c-adbf23ed5d9c": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open"
     },
     "fd09f346-c36c-4ce5-8491-1ad9de70aabd": {
@@ -33305,7 +33322,7 @@
     "033a2dce-7821-4e99-b6e1-138c6671f830": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T21:37:49.924Z",
       "skills": [
@@ -33459,7 +33476,7 @@
     "bc7d8bd5-8a92-4609-ab88-b1fe213fc0a4": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T00:00:00.000Z",
       "skills": [
@@ -33478,7 +33495,7 @@
     "add9f514-fb6c-43b3-a0cd-dc6ef72fb28f": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-19T14:18:24-04:00",
       "skills": [
@@ -33502,7 +33519,7 @@
     "5f8e95d8-b5c0-4d21-9ec0-a25bd2e3943f": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "publishedAt": "2026-10-22T00:00:00.000Z",
       "skills": [
@@ -33526,7 +33543,7 @@
     "e7367bf7-aaea-4883-ab30-ea927d7b66a9": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C#",
@@ -33549,7 +33566,7 @@
     "b528e2b6-04c3-46be-bd21-cac3f2e018bb": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C++",
@@ -33572,7 +33589,7 @@
     "4169c155-cad3-467e-b8f4-6435181c35ba": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "AWS",
@@ -33595,7 +33612,7 @@
     "25f26c89-68c7-42c7-8b1c-a1e4d61f5525": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C++",
@@ -33612,7 +33629,7 @@
     "2b19951c-67c9-4606-b94a-7ad022323200": {
       "firstSeenAt": "2026-10-23T05:04:22.838Z",
       "strikes": 0,
-      "lastVerifiedAt": "2026-10-23T05:04:22.838Z",
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
       "lastStatus": "open",
       "skills": [
         "C++",
@@ -33629,6 +33646,197 @@
         "Fast-Paced Environment",
         "Leadership",
         "Problem Solving"
+      ],
+      "skillsVersion": 2
+    },
+    "574cf650-e6f4-42ae-a309-2bd87b5781da": {
+      "firstSeenAt": "2026-10-23T17:18:16.832Z",
+      "strikes": 0,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "open",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "skills": [],
+      "softSkills": [
+        "Collaboration",
+        "Communication",
+        "Problem Solving"
+      ],
+      "skillsVersion": 2
+    },
+    "ede8c3f5-fd50-49d4-b347-bece731058ad": {
+      "firstSeenAt": "2026-10-23T17:18:16.832Z",
+      "strikes": 0,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "open",
+      "skills": [
+        "SQL",
+        "JavaScript",
+        "Power BI",
+        "Data Pipelines",
+        "Statistics"
+      ],
+      "softSkills": [
+        "Adaptability",
+        "Communication",
+        "Collaboration"
+      ],
+      "skillsVersion": 2
+    },
+    "08c7a9a4-0fd0-4812-8402-73293523d1b4": {
+      "firstSeenAt": "2026-10-23T17:18:16.832Z",
+      "strikes": 0,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "open",
+      "skills": [
+        "Frontend Development"
+      ],
+      "softSkills": [],
+      "skillsVersion": 2
+    },
+    "2d1205f2-cb07-4355-a160-2ae1b57ed991": {
+      "firstSeenAt": "2026-10-23T17:18:16.832Z",
+      "strikes": 0,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "open"
+    },
+    "59c91bb5-c7b2-4849-9e8e-c13518b6dd45": {
+      "firstSeenAt": "2026-10-23T17:18:16.832Z",
+      "strikes": 0,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "open"
+    },
+    "fec5c82d-3e40-46de-bad2-93a1b2669f21": {
+      "firstSeenAt": "2026-10-23T17:18:16.832Z",
+      "strikes": 0,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "open",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "skills": [
+        "JavaScript",
+        "SQL",
+        "TypeScript",
+        ".NET",
+        "Angular",
+        "React",
+        "Vue",
+        "AWS",
+        "Databricks"
+      ],
+      "softSkills": [
+        "Cross-Functional Collaboration",
+        "Curiosity",
+        "Fast-Paced Environment"
+      ],
+      "skillsVersion": 2
+    },
+    "e036c643-73e5-4aed-9393-88ba5c8585bd": {
+      "firstSeenAt": "2026-10-23T17:18:16.832Z",
+      "strikes": 0,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "unverified"
+    },
+    "07ec9414-a580-4b59-87ad-55bc953f8447": {
+      "firstSeenAt": "2026-10-23T17:18:16.832Z",
+      "strikes": 0,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "open"
+    },
+    "ef81bfb1-56bf-4a32-b001-020a5ce145b3": {
+      "firstSeenAt": "2026-10-23T17:18:16.832Z",
+      "strikes": 0,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "open"
+    },
+    "ba72bc0a-c5ca-41ea-87bc-e7b5abe02f6a": {
+      "firstSeenAt": "2026-10-23T17:18:16.832Z",
+      "strikes": 0,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "open",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "skills": [
+        "Agile",
+        "Scrum",
+        "Statistics"
+      ],
+      "softSkills": [
+        "Collaboration",
+        "Communication",
+        "Adaptability"
+      ],
+      "skillsVersion": 2
+    },
+    "eb493015-e9fd-4f89-a4fa-3a1e85c4759a": {
+      "firstSeenAt": "2026-10-23T17:18:16.832Z",
+      "strikes": 0,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "open",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "skills": [
+        "Agile",
+        "Scrum",
+        "Statistics"
+      ],
+      "softSkills": [
+        "Collaboration",
+        "Communication",
+        "Adaptability"
+      ],
+      "skillsVersion": 2
+    },
+    "dffd4db8-49f0-4ebf-bfdc-8c58fe35018a": {
+      "firstSeenAt": "2026-10-23T17:18:16.832Z",
+      "strikes": 0,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "open",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "skills": [
+        "Agile",
+        "Scrum",
+        "Statistics"
+      ],
+      "softSkills": [
+        "Collaboration",
+        "Communication",
+        "Adaptability"
+      ],
+      "skillsVersion": 2
+    },
+    "37c49cf0-32b3-401f-a00e-3f878679c268": {
+      "firstSeenAt": "2026-10-23T17:18:16.832Z",
+      "strikes": 0,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "open",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "skills": [
+        "Agile",
+        "Machine Learning"
+      ],
+      "softSkills": [
+        "Analytical Skills",
+        "Cross-Functional Collaboration",
+        "Problem Solving"
+      ],
+      "skillsVersion": 2
+    },
+    "dafceed7-cef2-4577-9a27-bdccb6cd29a1": {
+      "firstSeenAt": "2026-10-23T17:18:16.832Z",
+      "strikes": 1,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "closed"
+    },
+    "31ee782b-3421-455d-9cc1-e5c1fc84b692": {
+      "firstSeenAt": "2026-10-23T17:18:16.832Z",
+      "strikes": 0,
+      "lastVerifiedAt": "2026-10-23T17:18:16.832Z",
+      "lastStatus": "open",
+      "publishedAt": "2026-10-19T00:00:00.000Z",
+      "skills": [
+        "Machine Learning"
+      ],
+      "softSkills": [
+        "Collaboration",
+        "Problem Solving",
+        "Analytical Skills"
       ],
       "skillsVersion": 2
     }
