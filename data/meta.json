@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T16:36:28.022Z",
+  "generatedAt": "2026-10-25T20:59:31.375Z",
   "sourceRepo": "Summer2027-Internships",
   "counts": {
     "upstreamTotal": 17280,
@@ -37,7 +37,7 @@
         "unknown": 0
       },
       "generic": {
-        "open": 3,
+        "open": 0,
         "closed": 10,
         "unknown": 41
       },
@@ -47,12 +47,12 @@
         "unknown": 0
       },
       "workday": {
-        "open": 0,
+        "open": 3,
         "closed": 0,
         "unknown": 2
       }
     },
-    "durationMs": 46331,
+    "durationMs": 46777,
     "skippedFresh": 1029
   },
   "diff": {
