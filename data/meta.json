@@ -1,106 +1,70 @@
 {
-  "generatedAt": "2026-11-03T02:57:59.836Z",
+  "generatedAt": "2026-11-03T11:04:27.403Z",
   "sourceRepo": "Summer2027-Internships",
   "counts": {
-    "upstreamTotal": 17497,
-    "afterActive": 5150,
-    "afterDegree": 5146,
-    "afterCategory": 1643,
-    "afterCycle": 1242,
-    "verifiedOpen": 1171,
+    "upstreamTotal": 17509,
+    "afterActive": 5117,
+    "afterDegree": 5113,
+    "afterCategory": 1636,
+    "afterCycle": 1236,
+    "verifiedOpen": 1164,
     "unverified": 51,
-    "closedRemoved": 20,
-    "emitted": 1222,
-    "withSkills": 943
+    "closedRemoved": 21,
+    "emitted": 1215,
+    "withSkills": 939
   },
   "tiers": {
     "T1": 331,
-    "T2": 468,
-    "T3": 443
+    "T2": 466,
+    "T3": 439
   },
   "verification": {
-    "attempted": 121,
+    "attempted": 1186,
     "byAdapter": {
       "cache": {
-        "open": 1121,
+        "open": 50,
         "closed": 0,
         "unknown": 0
       },
       "greenhouse": {
-        "open": 4,
+        "open": 157,
         "closed": 0,
         "unknown": 5
       },
       "ashby": {
-        "open": 1,
+        "open": 101,
         "closed": 3,
         "unknown": 0
       },
-      "generic": {
-        "open": 17,
-        "closed": 10,
-        "unknown": 45
+      "lever": {
+        "open": 36,
+        "closed": 0,
+        "unknown": 0
       },
       "smartrecruiters": {
-        "open": 1,
+        "open": 15,
         "closed": 8,
         "unknown": 0
       },
+      "generic": {
+        "open": 367,
+        "closed": 10,
+        "unknown": 45
+      },
       "workday": {
-        "open": 27,
+        "open": 438,
         "closed": 0,
-        "unknown": 0
+        "unknown": 1
       }
     },
-    "durationMs": 46944,
-    "skippedFresh": 1121
+    "durationMs": 95442,
+    "skippedFresh": 50
   },
   "diff": {
     "newIds": [
-      "7b190fdf-cbaa-48da-afc3-bdbf0f06287d",
-      "2ffb87fc-eef2-4456-bf21-597d3959f98e",
-      "80f18dd7-dd58-4635-88b5-28ffe8a06439",
-      "969fad49-3d84-4fbc-9700-8d9045078201",
-      "f7d94cc4-15c3-4072-a1c9-9e8a2413fd5a",
-      "d961770e-2db5-4501-bd6a-d25420fa4238",
-      "fc3fa536-4c6e-430d-ae11-d6231289e10a",
-      "9769870e-4b9e-4899-a798-7811da36ffe5",
-      "8d1e76b1-c393-4e56-95a5-8fb8284ed06d",
-      "8c36b3e9-bb7e-465c-8e59-8add0c4ab3da",
-      "4a439ec1-a49b-456f-b535-4f38a2356cf0",
-      "63d855e1-d1ea-462d-bcca-0d0d3bba5e1e",
-      "2b153e89-7e63-40db-9868-0e0d80b7ad0f",
-      "1fe84d82-9e4e-4ab2-a67d-5886a1a51abb",
-      "76a9adb2-de1f-4c13-8134-c6ae9614a37d",
-      "7119d05b-82f8-4636-8a9f-426c89f7a8c5",
-      "f9f2c39b-cbd9-4654-bfd9-2ff0ac221771",
-      "c20bef46-45b5-497e-883d-4745f23e27b0",
-      "be146f78-4172-4dbd-9839-b35a87ef06be",
-      "f95a9943-a08d-468f-9a14-13f5b26ac3e3",
-      "62bf04c8-18c9-48d2-911d-93ed5a597077",
-      "3a491712-efae-41c7-9cf5-9e0c3367e9e1",
-      "16ffdc52-e025-48ae-87f2-6935ed5dd2e2",
-      "0def15fc-cae9-402b-85fd-6b0139206423",
-      "84e1f7e3-978b-4ff1-a360-302ecd1faf1e",
-      "ea8851db-7f77-4b09-b31c-cad41cb44180",
-      "1deda976-5920-4586-8a2e-b904ee4d0863",
-      "af890f74-8fde-4b67-8656-a12802746f53",
-      "5d700994-d5ab-41f3-9bb8-8b08d9f547fa",
-      "3cf5097c-7238-4b24-9364-f1a0f955ae53",
-      "73205f44-451a-4bd5-add5-2cba415a4dbf",
-      "f1c48f63-d8ea-4e90-8539-67591d5ad08f",
-      "e20b5924-fa25-474c-b3ce-6a1d27642caf",
-      "abb57f20-6dfd-4460-a71d-acff04ae3e84",
-      "9aff2860-cf5d-4547-b10b-b5330f2655ee",
-      "c32b8ca6-4112-4686-b149-a74c13441788",
-      "03dcc6a0-7074-41ed-b801-a60f6116f591",
-      "0a1e3285-1442-4dec-a54b-8f1506490d30",
-      "81b504b5-30c2-413c-bd6c-a7872301bb77",
-      "28a094fa-62d3-4dac-9e1f-8e3d507d7c6e",
-      "4374aa77-1cb7-43ac-b98c-61c5c9bc7f02",
-      "7358be13-bdfe-4e65-a931-2e842c76a8c3",
-      "29c0eb17-de6c-4332-addb-c6f0732b0b09",
-      "a76e7223-bb98-4ed6-af28-3ae42d23856a"
+      "2f789670-e408-4083-8c56-78c3954a15f2",
+      "46fd3fa6-a273-49da-b7ac-7cb7fcf894a9",
+      "ef31b232-5a78-40fe-9d4a-b2cca861468f"
     ],
     "closedIds": [
       "f06b088f-b45f-4daa-a9f2-f680f36623f0",
@@ -122,38 +86,27 @@
       "dafceed7-cef2-4577-9a27-bdccb6cd29a1",
       "6510633a-12fb-403f-b2e5-b91ca20197b7",
       "2507d753-2e29-4433-be1b-355a19295f16",
-      "09939e91-4c36-4e3b-ace2-9d0117e05b68"
+      "09939e91-4c36-4e3b-ace2-9d0117e05b68",
+      "0def15fc-cae9-402b-85fd-6b0139206423"
     ],
     "closedUpstreamIds": [
-      "ca54c597-62db-4da0-94dc-586e386ef525",
-      "a9482eaf-0940-4198-b8c8-e65d2e136819",
-      "0056240c-a4a3-48c5-8715-8b3ed04b1590",
-      "1aa5987c-ec80-457f-9cf4-f0ad07ae342e",
-      "c06039c4-ba75-429d-bdd0-6d8a878845ee",
-      "6c514fac-5158-4951-864f-7e825c5cf6f4",
-      "f6bf553d-9f2a-46c8-a6e7-693d5ca48d14",
-      "38c7776b-a885-4f1e-af66-2816ed57ba66",
-      "62d4ae7a-8cfd-487d-b184-59ecd3952a7d",
-      "97fe6a41-dd50-4193-84c4-3bb8640b1710",
-      "07ec9414-a580-4b59-87ad-55bc953f8447",
-      "d6c24595-0dd3-449f-b0ae-d13e256fc740",
-      "09f40dda-2ded-4174-ba81-78b97c133f7e",
-      "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
-      "a023874d-88f4-4e6c-a29a-681d54bc45f9",
-      "06f477fe-1ed4-46b5-8559-17cc078c0b8c",
-      "56542a8e-855c-488c-913e-1d63b6c0a8d6",
-      "441204e5-25a0-40ff-8086-03becbb260e6",
-      "1677419e-8d02-4e05-b049-cd051f2b1b28"
+      "bf1ec0ef-494e-419c-abea-be20337732b0",
+      "c289fea9-67db-45d8-ab27-d9aa699b67cc",
+      "1993c458-75cd-45ce-b37e-7ce3a800bdab",
+      "e20b7038-01d7-4798-a53d-313f94bd9e80",
+      "40b8274c-c520-4495-8d40-2d974156e76d",
+      "35fb935f-b0e2-45fc-b47d-30f441bc8d56",
+      "5bdec003-2a02-42a4-a602-467541840552",
+      "792220f4-3ba1-4cf8-843e-e23208ba8d24",
+      "06098497-6840-4802-8838-81e0dbdec164"
     ],
-    "pastTermIds": [
-      "1077cb58-5992-4ad8-acb0-7980b9360baa"
-    ],
+    "pastTermIds": [],
     "otherRemovedIds": []
   },
   "byLevel": {
-    "undergrad": 1149,
-    "masters": 435,
-    "phd": 90
+    "undergrad": 1142,
+    "masters": 433,
+    "phd": 91
   },
   "cycleTerms": [
     "Fall 2027",
