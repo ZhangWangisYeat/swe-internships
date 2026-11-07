@@ -1,79 +1,92 @@
 {
-  "generatedAt": "2026-11-06T19:34:00.490Z",
+  "generatedAt": "2026-11-07T00:59:18.272Z",
   "sourceRepo": "Summer2027-Internships",
   "counts": {
     "upstreamTotal": 17675,
-    "afterActive": 5343,
-    "afterDegree": 5339,
-    "afterCategory": 1711,
-    "afterCycle": 1308,
-    "verifiedOpen": 1211,
-    "unverified": 62,
+    "afterActive": 5412,
+    "afterDegree": 5408,
+    "afterCategory": 1723,
+    "afterCycle": 1319,
+    "verifiedOpen": 1235,
+    "unverified": 49,
     "closedRemoved": 35,
-    "emitted": 1273,
-    "withSkills": 991
+    "emitted": 1284,
+    "withSkills": 1000
   },
   "tiers": {
-    "T1": 339,
-    "T2": 463,
-    "T3": 506
+    "T1": 348,
+    "T2": 460,
+    "T3": 511
   },
   "verification": {
-    "attempted": 1240,
+    "attempted": 181,
     "byAdapter": {
       "cache": {
-        "open": 68,
+        "open": 1138,
         "closed": 0,
         "unknown": 0
       },
       "greenhouse": {
-        "open": 156,
-        "closed": 0,
+        "open": 11,
+        "closed": 2,
         "unknown": 5
       },
       "ashby": {
-        "open": 97,
+        "open": 6,
         "closed": 4,
         "unknown": 0
       },
-      "lever": {
-        "open": 41,
-        "closed": 0,
-        "unknown": 0
+      "generic": {
+        "open": 31,
+        "closed": 25,
+        "unknown": 42
       },
       "smartrecruiters": {
-        "open": 17,
+        "open": 1,
         "closed": 6,
         "unknown": 0
       },
-      "workday": {
-        "open": 417,
+      "lever": {
+        "open": 3,
         "closed": 0,
-        "unknown": 12
+        "unknown": 0
       },
-      "generic": {
-        "open": 415,
-        "closed": 25,
-        "unknown": 45
+      "workday": {
+        "open": 45,
+        "closed": 0,
+        "unknown": 0
       }
     },
-    "durationMs": 100087,
-    "skippedFresh": 68
+    "durationMs": 47547,
+    "skippedFresh": 1138
   },
   "diff": {
     "newIds": [
-      "e2ba2687-1ac6-40c9-a236-61fad22d9407",
-      "b0484564-9325-4e1a-a91d-2005a8c9bbfb",
-      "2a9865db-8f3e-40ac-a2fb-b90b64595d1e",
-      "e83280af-86b2-46ea-8179-6344933c3f14",
-      "f9653292-a302-4c21-8fc5-a787755024dd",
-      "bb1b5428-f0ef-4b5c-af37-6b28e35d359c",
-      "20102156-230a-4d18-a3eb-dcc6a46d3a14",
-      "4c1d2a29-8238-4827-a622-c10a3a4efcf9",
-      "8a924ee7-0fe1-4b54-b6ad-a4130a1cf787",
-      "e13a771d-0bef-4eba-8e4c-922902e13085",
-      "e069ea1c-b571-46be-95e2-d1071dbcb2dd",
-      "dce9fd9f-e2c7-4cce-ac21-2cdf97ae4509"
+      "80addd25-9936-4802-89cf-18401bc2e77f",
+      "cb106770-4593-4842-8f17-c2a20661ba46",
+      "7d544ef7-bf75-44db-be1d-4d188d49985b",
+      "4adacc63-a1b4-4e24-ab5d-71dd70cd760b",
+      "c35a9168-9923-4395-bcca-05777cef1cdc",
+      "78a45f13-38fa-4431-81c9-b4d182f1a027",
+      "77c8e346-3780-4747-992a-a0692af4336d",
+      "541b4523-800c-4795-90a5-b1477f0cc1bb",
+      "db6f3fe2-dcd1-4426-8502-58670887b096",
+      "e8209fcd-0bd8-4e54-969a-77a28e97d8eb",
+      "0e942b8e-2ea9-4241-99a8-96482e3de3ee",
+      "855cf1a4-420b-46b0-a7af-9bc903a1571b",
+      "4f786492-0f6e-4697-853b-f3fcdb446f60",
+      "ae49066f-b98e-4bc7-acf8-9bcbfe54342e",
+      "0a166f66-2d80-4495-b1b9-2706d5329ded",
+      "be4332c5-d83a-4a08-8665-0ca7425c43ad",
+      "7ba4164e-47fc-41ed-9683-2c3097e4252f",
+      "9da8ee81-7d41-47af-9cae-52f1be53bbcd",
+      "9143ae88-6ad5-4f65-9361-f85e91e18ece",
+      "695a2bb6-3e9e-4b05-a39b-6d6cfe7f3b91",
+      "744eff9c-451a-4759-909e-8d912f801286",
+      "590dc2fa-43f6-41c2-96fc-c01b91e85aac",
+      "669e846d-6122-44e9-a9d6-d58d25ce61f0",
+      "aabb6bc2-6230-4e0f-aa9d-24371647b689",
+      "4b21b691-3465-4007-add7-aeb6cdb3ba00"
     ],
     "closedIds": [
       "f06b088f-b45f-4daa-a9f2-f680f36623f0",
@@ -113,39 +126,36 @@
       "5e01c887-e95d-4785-9a00-436d4da36038"
     ],
     "closedUpstreamIds": [
-      "328d4568-bcae-457f-96e8-ea5e59164c08",
-      "8262d1b0-a155-42eb-b4f5-a14a377ffb1b",
-      "c5e86824-dfe7-4736-af3b-f8a7222c6536",
-      "f3d897bf-f136-496c-9994-5a34953c7c3b",
-      "2d8c299e-32f6-48b9-96af-74653d10e44a",
-      "932b8b82-9a55-4a83-a9a8-8cdead995b71",
-      "f95a9943-a08d-468f-9a14-13f5b26ac3e3",
-      "d58e6fdc-c150-4d88-bff1-16000fd3a8c1",
-      "901d71ff-ed64-4848-95e0-094ad0610036",
-      "47fc293a-86ff-4dfb-9ef9-71a0f154f798",
-      "08f0c2cf-eaef-46a2-a967-d9b0af6ca50b",
-      "394fd625-992b-45aa-9d72-e2ae53a17bf3",
-      "4bc03fa9-1a0f-4972-b9ba-e0f07d3372ff",
-      "58b2fdc7-432f-48f0-80a9-5e970ba2b3e0",
-      "7d6d0c79-df4a-4100-b0e6-68dc43dade2a",
-      "86cb1b02-b094-4e5e-94bf-bb2c80d2c69e",
-      "24537423-4d5f-4c4e-96e3-47f55defe704",
-      "73395dc9-ae40-45b9-b46a-7c823d29cc98",
-      "726360c4-caf8-48cc-bc62-9dc9ba9eaca4",
-      "2f8b3696-a0e4-4b49-ae6a-ab6bbe7b640d",
-      "2fb8aa8a-8920-42b2-9a24-167f54d6cc81"
+      "bace5e25-f7c7-40db-875f-96e30740cd4b",
+      "74a74297-0643-45a2-bf84-291dd57127f9",
+      "d54ad503-0917-4cd9-8e73-8ecd6fe2d56d",
+      "27ce0059-c008-45e2-93c4-f9e612b9f8e8",
+      "78503d4f-7c6f-45bb-bad9-1bd6eadd974b",
+      "aecfefcb-c6a4-4161-ac54-0464570e82a9",
+      "b6f3c11d-afce-4ebd-b16f-8f3bfb75b164",
+      "d03f3f61-cfe8-441f-90db-b9831bc5205c",
+      "e0a98377-2ab5-44f4-a19a-bb11a98699a1",
+      "ea89ecc3-ebf3-48b1-8f0a-a496dfa9755b",
+      "f5506af0-7205-497f-8afc-70c81179f25a",
+      "58a7bc55-d2fe-4a18-8d1c-ad95595dd5fb",
+      "8c3ef60f-82b8-40a0-a8af-f49d57750b6c",
+      "e4639935-0247-4578-b4a3-814cab5c5c8e",
+      "c0d0a7a8-afbc-4283-886f-e4d7e36f52f0",
+      "bfeef96e-5bbc-425d-9ee0-3fa12f525bf1",
+      "91d2adab-28fa-4563-b4ba-2a64e372dbed",
+      "6fc7d52e-825d-4917-aaaa-3941e28d5c5a",
+      "db36b892-52d0-41cd-a477-521af6328b70"
     ],
     "pastTermIds": [],
     "otherRemovedIds": []
   },
   "byLevel": {
-    "undergrad": 1200,
-    "masters": 449,
-    "phd": 95
+    "undergrad": 1209,
+    "masters": 450,
+    "phd": 97
   },
   "cycleTerms": [
     "Fall 2027",
-    "Fall 2028",
     "N/A",
     "Spring 2027",
     "Spring 2028",
@@ -154,8 +164,7 @@
     "Summer 2028",
     "Summer 2029",
     "Winter 2027",
-    "Winter 2028",
-    "Winter 2029"
+    "Winter 2028"
   ],
   "warnings": []
 }
