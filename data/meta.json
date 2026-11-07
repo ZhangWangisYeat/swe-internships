@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T17:47:29.561Z",
+  "generatedAt": "2026-11-07T22:03:30.943Z",
   "sourceRepo": "Summer2027-Internships",
   "counts": {
     "upstreamTotal": 17622,
-    "afterActive": 5363,
-    "afterDegree": 5359,
+    "afterActive": 5361,
+    "afterDegree": 5357,
     "afterCategory": 1710,
     "afterCycle": 1306,
     "verifiedOpen": 1225,
@@ -19,51 +19,39 @@
     "T3": 508
   },
   "verification": {
-    "attempted": 184,
+    "attempted": 81,
     "byAdapter": {
       "cache": {
-        "open": 1122,
+        "open": 1225,
         "closed": 0,
         "unknown": 0
       },
       "greenhouse": {
-        "open": 12,
+        "open": 0,
         "closed": 0,
         "unknown": 5
       },
       "ashby": {
-        "open": 6,
+        "open": 0,
         "closed": 4,
         "unknown": 0
       },
       "generic": {
-        "open": 36,
+        "open": 0,
         "closed": 24,
         "unknown": 42
       },
-      "lever": {
-        "open": 3,
-        "closed": 0,
-        "unknown": 0
-      },
       "smartrecruiters": {
-        "open": 1,
+        "open": 0,
         "closed": 6,
-        "unknown": 0
-      },
-      "workday": {
-        "open": 45,
-        "closed": 0,
         "unknown": 0
       }
     },
-    "durationMs": 47271,
-    "skippedFresh": 1122
+    "durationMs": 46558,
+    "skippedFresh": 1225
   },
   "diff": {
-    "newIds": [
-      "82d52f8a-60a6-470b-abc6-feb1c6b7df89"
-    ],
+    "newIds": [],
     "closedIds": [
       "f06b088f-b45f-4daa-a9f2-f680f36623f0",
       "8569a45d-e504-4cc5-897a-de907ab8e0f7",
@@ -100,10 +88,7 @@
       "ceaaa076-4cfe-4d9d-9cb9-dd7de78038ce",
       "5e01c887-e95d-4785-9a00-436d4da36038"
     ],
-    "closedUpstreamIds": [
-      "715edfbe-9e25-4d5c-b17b-230a7cd1efa2",
-      "f82632d8-09d1-4568-bbaf-aa4a5ecb312a"
-    ],
+    "closedUpstreamIds": [],
     "pastTermIds": [],
     "otherRemovedIds": []
   },
