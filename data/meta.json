@@ -1,54 +1,59 @@
 {
-  "generatedAt": "2026-11-07T22:03:30.943Z",
+  "generatedAt": "2026-11-08T06:20:48.737Z",
   "sourceRepo": "Summer2027-Internships",
   "counts": {
-    "upstreamTotal": 17622,
-    "afterActive": 5361,
-    "afterDegree": 5357,
-    "afterCategory": 1710,
-    "afterCycle": 1306,
+    "upstreamTotal": 17550,
+    "afterActive": 5378,
+    "afterDegree": 5374,
+    "afterCategory": 1711,
+    "afterCycle": 1308,
     "verifiedOpen": 1225,
-    "unverified": 47,
+    "unverified": 49,
     "closedRemoved": 34,
-    "emitted": 1272,
-    "withSkills": 989
+    "emitted": 1274,
+    "withSkills": 991
   },
   "tiers": {
-    "T1": 346,
+    "T1": 345,
     "T2": 452,
-    "T3": 508
+    "T3": 511
   },
   "verification": {
-    "attempted": 81,
+    "attempted": 1308,
     "byAdapter": {
-      "cache": {
-        "open": 1225,
-        "closed": 0,
-        "unknown": 0
-      },
       "greenhouse": {
-        "open": 0,
+        "open": 165,
         "closed": 0,
         "unknown": 5
       },
       "ashby": {
-        "open": 0,
+        "open": 102,
         "closed": 4,
         "unknown": 0
       },
-      "generic": {
-        "open": 0,
-        "closed": 24,
-        "unknown": 42
-      },
       "smartrecruiters": {
-        "open": 0,
+        "open": 18,
         "closed": 6,
         "unknown": 0
+      },
+      "lever": {
+        "open": 45,
+        "closed": 0,
+        "unknown": 0
+      },
+      "workday": {
+        "open": 451,
+        "closed": 1,
+        "unknown": 0
+      },
+      "generic": {
+        "open": 444,
+        "closed": 24,
+        "unknown": 43
       }
     },
-    "durationMs": 46558,
-    "skippedFresh": 1225
+    "durationMs": 89053,
+    "skippedFresh": 0
   },
   "diff": {
     "newIds": [],
@@ -88,12 +93,14 @@
       "ceaaa076-4cfe-4d9d-9cb9-dd7de78038ce",
       "5e01c887-e95d-4785-9a00-436d4da36038"
     ],
-    "closedUpstreamIds": [],
+    "closedUpstreamIds": [
+      "2da5da2b-d4bb-411a-9edc-521c81a36a7a"
+    ],
     "pastTermIds": [],
     "otherRemovedIds": []
   },
   "byLevel": {
-    "undergrad": 1195,
+    "undergrad": 1197,
     "masters": 450,
     "phd": 99
   },
