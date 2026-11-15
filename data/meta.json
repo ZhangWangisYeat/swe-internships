@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-15T16:28:23.381Z",
+  "generatedAt": "2026-11-15T22:59:46.422Z",
   "sourceRepo": "Summer2027-Internships",
   "counts": {
-    "upstreamTotal": 17585,
-    "afterActive": 5318,
-    "afterDegree": 5313,
+    "upstreamTotal": 17546,
+    "afterActive": 5314,
+    "afterDegree": 5309,
     "afterCategory": 1700,
     "afterCycle": 1290,
-    "verifiedOpen": 1211,
-    "unverified": 45,
+    "verifiedOpen": 1204,
+    "unverified": 52,
     "closedRemoved": 34,
     "emitted": 1256,
     "withSkills": 985
@@ -19,54 +19,49 @@
     "T3": 500
   },
   "verification": {
-    "attempted": 96,
+    "attempted": 1273,
     "byAdapter": {
       "cache": {
-        "open": 1194,
+        "open": 17,
         "closed": 0,
         "unknown": 0
       },
       "greenhouse": {
-        "open": 0,
+        "open": 158,
         "closed": 0,
         "unknown": 5
       },
       "ashby": {
-        "open": 0,
+        "open": 105,
         "closed": 5,
         "unknown": 0
       },
-      "generic": {
-        "open": 1,
-        "closed": 24,
-        "unknown": 40
-      },
       "lever": {
-        "open": 0,
+        "open": 42,
         "closed": 1,
         "unknown": 0
       },
       "smartrecruiters": {
-        "open": 0,
+        "open": 19,
         "closed": 4,
         "unknown": 0
       },
+      "generic": {
+        "open": 435,
+        "closed": 24,
+        "unknown": 40
+      },
       "workday": {
-        "open": 16,
+        "open": 428,
         "closed": 0,
-        "unknown": 0
+        "unknown": 7
       }
     },
-    "durationMs": 46745,
-    "skippedFresh": 1194
+    "durationMs": 147405,
+    "skippedFresh": 17
   },
   "diff": {
-    "newIds": [
-      "a66d16d8-304f-49d6-ae57-3f9db2d9042c",
-      "793ec0c7-1beb-4313-b882-ed495d809c95",
-      "008cb674-f57a-4a6c-8865-05d831611eb9",
-      "b415eac7-ec25-4ef5-81f2-d6d982e79b2a"
-    ],
+    "newIds": [],
     "closedIds": [
       "f06b088f-b45f-4daa-a9f2-f680f36623f0",
       "1795d6df-fcca-45dc-836d-41a82dc36894",
@@ -103,16 +98,7 @@
       "6b73a3bf-eeb9-4318-84af-2f7f53519b89",
       "8b086459-985c-4225-b509-facb2dce5e94"
     ],
-    "closedUpstreamIds": [
-      "f633b964-2b4e-4cc9-909b-0de4e42c4cc6",
-      "972e59fe-5d7f-418d-8180-1595a1b7c989",
-      "b9ce969b-feac-4712-867d-4dc584234d94",
-      "969fad49-3d84-4fbc-9700-8d9045078201",
-      "c20bef46-45b5-497e-883d-4745f23e27b0",
-      "5bdec003-2a02-42a4-a602-467541840552",
-      "792220f4-3ba1-4cf8-843e-e23208ba8d24",
-      "06098497-6840-4802-8838-81e0dbdec164"
-    ],
+    "closedUpstreamIds": [],
     "pastTermIds": [],
     "otherRemovedIds": []
   },
